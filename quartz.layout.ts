@@ -1,5 +1,20 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import type { Options as ExplorerOptions } from "./quartz/components/Explorer"
+
+// Keep Quartz ordering except for the two top-level navigation groups.
+const explorerSort: ExplorerOptions["sortFn"] = (a, b) => {
+  if (a.slug === "topics/index" && b.slug === "concepts/index") return -1
+  if (a.slug === "concepts/index" && b.slug === "topics/index") return 1
+
+  if (a.isFolder === b.isFolder) {
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  }
+  return a.isFolder ? -1 : 1
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -35,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: explorerSort }),
   ],
   right: [
     Component.Graph(),
@@ -59,7 +74,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: explorerSort }),
   ],
   right: [],
 }
