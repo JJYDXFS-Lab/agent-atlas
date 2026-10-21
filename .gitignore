@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+public/
+.quartz-cache/
+tsconfig.tsbuildinfo
+prof/
+.obsidian/
+private/
+docs/
+PROJECT_STATE.md
+.agent-runs/
+.agent-office-runs/
