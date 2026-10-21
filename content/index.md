@@ -2,18 +2,18 @@
 title: Agent Atlas
 ---
 
-# Agent Atlas
+Agent Atlas is a public reference for concepts associated with intelligent agents. Entries explain documented uses, conceptual boundaries, and relationships, with citations to published sources.
 
-Agent Atlas is a public reference for concepts associated with intelligent agents. Entries distinguish documented uses, conceptual boundaries, and relationships between terms, with citations to published sources.
+## Agent foundations
 
-## Concept hub
+How do agents represent uncertainty and choose actions? Explore [[topics/agent-foundations|Agent foundations]] through [[action]], [[observation]], [[belief-state|belief state]], and [[policy]].
 
-Start with a family of terms from partially observable planning: an [[action]] changes what may happen, an [[observation]] provides incomplete evidence, a [[belief-state|belief state]] tracks uncertainty, and a [[policy]] selects actions from available information. These pages describe the specific POMDP formulation in the cited paper, not a universal vocabulary for all agents.
+## Memory and information
 
-[[retrieval-augmented-generation|Retrieval-augmented generation]] is a separate, language-model-centered formulation that draws on external passages during generation. Its entry explains where an analogy with decision-process concepts is useful—and where it breaks down.
+What information is retained, retrieved, and available now? Explore [[topics/memory-and-information|Memory and information]] through [[context-window|context window]], [[agent-memory|agent memory]], and [[retrieval-augmented-generation|retrieval-augmented generation]].
 
-Follow the links within each entry for boundaries and typed relationships. Search, Explorer, and the graph offer navigation; a link does not by itself imply conceptual equivalence.
+## Communication and interpretation
 
-## Sources
+How do participants understand language and one another? Explore [[topics/communication-and-interpretation|Communication and interpretation]] through [[pragmatics]], [[common-ground|common ground]], [[conversational-grounding|conversational grounding]], and [[theory-of-mind|theory of mind]].
 
-The initial entries draw on Kaelbling, Littman, and Cassandra's [1998 POMDP paper](<https://doi.org/10.1016/S0004-3702(98)00023-X>) and Lewis and colleagues' [2020 RAG paper](https://arxiv.org/abs/2005.11401v4). Each entry provides its own scope, boundary example, and full reference. These sources support their respective formulations, not a unified taxonomy of all agent systems.
+These themes are reading routes, not an exhaustive classification. Crosslinks connect concepts across themes; a graph edge does not by itself imply equivalence or agreement between theories. Each entry identifies the scope and sources behind its claims.

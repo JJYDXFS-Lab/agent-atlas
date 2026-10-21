@@ -28,6 +28,8 @@ After a noisy “door open” report, an agent may assign the door-open state hi
 - **Input to:** a belief-based [[policy]] can choose an action for each reachable distribution.
 - **Contrast:** the retrieved passages in [[retrieval-augmented-generation|retrieval-augmented generation]] constitute external text, not by themselves a normalized distribution over hidden states.
 
+Related reading: [[theory-of-mind|Theory of mind]] uses belief attribution in a different sense; [[agent-memory|agent memory]] describes storage and retrieval mechanisms.
+
 ## Reference
 
 Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. 1998. “Planning and Acting in Partially Observable Stochastic Domains.” _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).

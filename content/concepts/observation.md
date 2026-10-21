@@ -21,6 +21,8 @@ If a navigation sensor says “wall nearby,” that report is an observation eve
 - **Guides indirectly:** a [[policy]] over belief states can use new evidence without equating a report to the true state.
 - **Contrast:** text fetched by [[retrieval-augmented-generation|retrieval-augmented generation]] is retrieved context for a language model; calling it a POMDP observation additionally requires a defined hidden state and observation model.
 
+Related reading: [[context-window|Context window]] distinguishes the input available to an LLM from information stored elsewhere.
+
 ## Reference
 
 Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. 1998. “Planning and Acting in Partially Observable Stochastic Domains.” _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).

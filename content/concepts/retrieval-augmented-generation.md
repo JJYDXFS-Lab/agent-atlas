@@ -22,6 +22,8 @@ A model answering solely from fixed parameters is not retrieval-augmented in thi
 - **Possible modeling bridge:** retrieval _could_ be modeled as an [[action]] whose result is an [[observation]] in a separately designed partially observable task. This is an analogy, not an identification made by Lewis and colleagues.
 - **Distinct from:** a [[policy]] in a POMDP chooses actions with a sequential decision objective; RAG-Sequence and RAG-Token specify how retrieved passages condition output generation.
 
+Related reading: [[agent-memory|Agent memory]] compares parametric and non-parametric memory with other storage architectures; [[context-window|context window]] distinguishes available input from external storage.
+
 ## Reference
 
 Lewis, Patrick, et al. 2020. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” _Advances in Neural Information Processing Systems_ 33. [https://arxiv.org/abs/2005.11401v4](https://arxiv.org/abs/2005.11401v4) (author abstract and paper, version 4). [https://doi.org/10.48550/arXiv.2005.11401](https://doi.org/10.48550/arXiv.2005.11401).
