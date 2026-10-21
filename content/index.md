@@ -1,8 +1,8 @@
 ---
-title: Agent Atlas | 智能体概念图谱
+title: Agent Atlas
 ---
 
-# Agent Atlas | 智能体概念图谱
+# Agent Atlas
 
 Agent Atlas is a public reference for concepts associated with intelligent agents. Entries distinguish documented uses, conceptual boundaries, and relationships between terms, with citations to published sources.
 

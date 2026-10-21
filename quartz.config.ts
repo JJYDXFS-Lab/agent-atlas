@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Agent Atlas | 智能体概念图谱",
+    pageTitle: "Agent Atlas",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

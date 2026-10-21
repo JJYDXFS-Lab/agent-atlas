@@ -1,4 +1,4 @@
-# Agent Atlas | 智能体概念图谱
+# Agent Atlas
 
 Agent Atlas is a public reference wiki for concepts associated with intelligent agents. Entries distinguish documented uses, conceptual boundaries and relationships, with links to published sources. It is a knowledge-level subsidiary of Atom KB, built and maintained independently.
 
