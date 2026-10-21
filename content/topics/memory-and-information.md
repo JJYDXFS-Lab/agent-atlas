@@ -8,4 +8,4 @@ What information is retained, retrieved, and available to a model now? These ent
 - [[agent-memory|Agent memory]] — retention, updating, and retrieval across interactions.
 - [[retrieval-augmented-generation|Retrieval-augmented generation]] — generation conditioned on retrieved passages.
 
-Information availability is distinct from what a user believes is available. Follow [[common-ground|common ground]] and [[theory-of-mind|theory of mind]] into [[communication-and-interpretation|Communication and interpretation]].
+Information availability is distinct from what a user believes is available. Follow [[common-ground|Common ground]] and [[theory-of-mind|Theory of mind]] into [[communication-and-interpretation|Communication and interpretation]].

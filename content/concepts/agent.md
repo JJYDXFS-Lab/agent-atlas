@@ -35,7 +35,7 @@ AIMA's simple vacuum-world agent senses its location and local dirt, then moves 
 ## Related concepts
 
 - [[action|Action]] and [[observation|Observation]] describe a particular POMDP formulation, with additional assumptions about transitions and observations.
-- [[policy|Policy]] is a related decision rule. The belief-state policy in that entry uses a [[belief-state|belief state]], while the agent function above uses percept history; the two descriptions should not be conflated.
+- [[policy|Policy]] is a related decision rule. The belief-state policy in that entry uses a [[belief-state|Belief state]], while the agent function above uses percept history; the two descriptions should not be conflated.
 - [[agent-memory|Agent memory]] concerns retained information. Memory can support history-dependent behavior, but a simple reflex agent need not use earlier percepts. [1, §2.4.2]
 
 ## Sources

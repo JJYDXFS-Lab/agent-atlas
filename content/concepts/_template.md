@@ -5,6 +5,8 @@ draft: true
 
 # Concept name / 概念名
 
+<!-- Use sentence case for the title and full-title link labels; see docs/maintenance.md. -->
+
 **Scope:** specify the context in which the term is used. **Aliases:** include only attested forms.
 
 ## Overview

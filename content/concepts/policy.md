@@ -10,7 +10,7 @@ An [[agent|agent function]] describes behavior over percept histories. [2] The b
 
 ## In the POMDP model
 
-A policy determines how to choose an [[action]] from information available at decision time. Since the true state is hidden, a rule that chooses an action from the _true_ state cannot in general be implemented by this agent. A belief-state policy instead uses a distribution over possible states: symbolically, $\pi(b)=a$ means the rule $\pi$ selects action $a$ at [[belief-state|belief state]] $b$. This shorthand is for a deterministic, stationary rule; history-dependent or stochastic rules are also possible, and the shorthand is not their universal definition. Planning evaluates such choices with the task's rewards and assumptions about future transitions and observations.
+A policy determines how to choose an [[action|Action]] from information available at decision time. Since the true state is hidden, a rule that chooses an action from the _true_ state cannot in general be implemented by this agent. A belief-state policy instead uses a distribution over possible states: symbolically, $\pi(b)=a$ means the rule $\pi$ selects action $a$ at [[belief-state|Belief state]] $b$. This shorthand is for a deterministic, stationary rule; history-dependent or stochastic rules are also possible, and the shorthand is not their universal definition. Planning evaluates such choices with the task's rewards and assumptions about future transitions and observations.
 
 ## Boundary example
 
@@ -18,10 +18,10 @@ A policy determines how to choose an [[action]] from information available at de
 
 ## Relations
 
-- **Maps from:** a [[belief-state|belief state]] can summarize action–observation history for planning in this setting.
-- **Specifies:** a deterministic policy selects an [[action]]; a stochastic policy specifies a probability distribution over actions.
+- **Maps from:** a [[belief-state|Belief state]] can summarize action–observation history for planning in this setting.
+- **Specifies:** a deterministic policy selects an [[action|Action]]; a stochastic policy specifies a probability distribution over actions.
 - **Responds to:** [[observation|observations]] affect later choices through the updated belief state.
-- **Contrast:** [[retrieval-augmented-generation|retrieval-augmented generation]] describes a retrieval-conditioned generation architecture, not necessarily a policy optimizing sequential reward.
+- **Contrast:** [[retrieval-augmented-generation|Retrieval-augmented generation]] describes a retrieval-conditioned generation architecture, not necessarily a policy optimizing sequential reward.
 
 ## Sources
 

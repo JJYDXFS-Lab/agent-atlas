@@ -10,7 +10,7 @@ Resolving a reference such as “that file” requires more than a dictionary me
 
 Ambiguity, vagueness, and missing detail are not interchangeable. An ambiguous expression allows different readings; a vague expression has borderline cases; an instruction can leave details unspecified without having two distinct linguistic readings. Nor does an unstated requirement automatically count as communicated: an inference about speaker meaning needs contextual support.
 
-[[common-ground|Common ground]] concerns what participants treat as shared. [[conversational-grounding|Conversational grounding]] concerns how they establish sufficient understanding. [[theory-of-mind|Theory of mind]] concerns attributing mental states. Each can matter for interpretation, but none is a synonym for pragmatics. Likewise, the conversational situation is broader than the tokens in an LLM's [[context-window|context window]].
+[[common-ground|Common ground]] concerns what participants treat as shared. [[conversational-grounding|Conversational grounding]] concerns how they establish sufficient understanding. [[theory-of-mind|Theory of mind]] concerns attributing mental states. Each can matter for interpretation, but none is a synonym for pragmatics. Likewise, the conversational situation is broader than the tokens in an LLM's [[context-window|Context window]].
 
 ## Sources
 

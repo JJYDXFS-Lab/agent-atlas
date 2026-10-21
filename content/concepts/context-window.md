@@ -10,7 +10,7 @@ In the MemGPT architecture [1], Packer and colleagues distinguish **main context
 
 A hypothetical assistant may retain last month's conversation in a database while receiving only today's messages. Retention does not imply that the old conversation is present in this invocation. Retrieving a relevant excerpt can change that; it does not make the entire database simultaneously visible to the model.
 
-A larger window is a capacity, not a guarantee that the model will use every included fact correctly. [[agent-memory|Agent memory]] concerns mechanisms for retaining and accessing information across steps. [[retrieval-augmented-generation|Retrieval-augmented generation]] supplies selected external material. Neither should be equated with window size. In [[pragmatics]], “context” can refer to the wider communicative situation, not just model input tokens.
+A larger window is a capacity, not a guarantee that the model will use every included fact correctly. [[agent-memory|Agent memory]] concerns mechanisms for retaining and accessing information across steps. [[retrieval-augmented-generation|Retrieval-augmented generation]] supplies selected external material. Neither should be equated with window size. In [[pragmatics|Pragmatics]], “context” can refer to the wider communicative situation, not just model input tokens.
 
 ## Sources
 

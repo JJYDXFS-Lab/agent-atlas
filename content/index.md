@@ -6,14 +6,14 @@ Agent Atlas is a public reference for concepts associated with intelligent agent
 
 ## Agent foundations
 
-What is an agent, and how does it interact with an environment? Begin with [[agent|Agent]], then explore [[topics/agent-foundations|Agent foundations]] through [[action]], [[observation]], [[belief-state|belief state]], and [[policy]].
+What is an agent, and how does it interact with an environment? Begin with [[agent|Agent]], then explore [[topics/agent-foundations|Agent foundations]] through [[action|Action]], [[observation|Observation]], [[belief-state|Belief state]], and [[policy|Policy]].
 
 ## Memory and information
 
-What information is retained, retrieved, and available now? Explore [[topics/memory-and-information|Memory and information]] through [[context-window|context window]], [[agent-memory|agent memory]], and [[retrieval-augmented-generation|retrieval-augmented generation]].
+What information is retained, retrieved, and available now? Explore [[topics/memory-and-information|Memory and information]] through [[context-window|Context window]], [[agent-memory|Agent memory]], and [[retrieval-augmented-generation|Retrieval-augmented generation]].
 
 ## Communication and interpretation
 
-How do participants understand language and one another? Explore [[topics/communication-and-interpretation|Communication and interpretation]] through [[pragmatics]], [[common-ground|common ground]], [[conversational-grounding|conversational grounding]], and [[theory-of-mind|theory of mind]].
+How do participants understand language and one another? Explore [[topics/communication-and-interpretation|Communication and interpretation]] through [[pragmatics|Pragmatics]], [[common-ground|Common ground]], [[conversational-grounding|Conversational grounding]], and [[theory-of-mind|Theory of mind]].
 
 These themes are reading routes, not an exhaustive classification. Crosslinks connect concepts across themes; a graph edge does not by itself imply equivalence or agreement between theories. Each entry identifies the scope and sources behind its claims.

@@ -8,7 +8,7 @@ In Clark and Brennan's account of communication (1991) [1], common ground compri
 
 Two collaborators may both have a report without realizing that the other has read it. Conversely, they may jointly assume an outdated deadline. These hypothetical cases distinguish common ground from identical data access and from objective truth. The beliefs and assumptions on which communication proceeds can be mistaken.
 
-Suppose a user says “use the revised table.” Whether this reference works depends on which table the participants take to be mutually identifiable. Merely storing the table in [[agent-memory|agent memory]], or inserting it into a [[context-window|context window]], does not establish that mutual understanding.
+Suppose a user says “use the revised table.” Whether this reference works depends on which table the participants take to be mutually identifiable. Merely storing the table in [[agent-memory|Agent memory]], or inserting it into a [[context-window|Context window]], does not establish that mutual understanding.
 
 Common ground is the shared basis; [[conversational-grounding|grounding]] is the collaborative process of establishing and updating it. [[theory-of-mind|Theory of mind]] can involve beliefs about another participant's beliefs, but modeling those beliefs is not by itself evidence that something is mutually understood. Other philosophical treatments formalize shared acceptance differently; this entry follows Clark and Brennan's communication account.
 

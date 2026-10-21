@@ -9,4 +9,4 @@ How do participants interpret an utterance, coordinate understanding, and reason
 - [[conversational-grounding|Conversational grounding]] — establishing sufficient mutual understanding.
 - [[theory-of-mind|Theory of mind]] — attributing and reasoning about mental states.
 
-These concepts overlap without being interchangeable. A system's [[context-window|context window]] and [[agent-memory|memory]] describe information mechanisms; they do not by themselves establish shared understanding.
+These concepts overlap without being interchangeable. A system's [[context-window|Context window]] and [[agent-memory|memory]] describe information mechanisms; they do not by themselves establish shared understanding.

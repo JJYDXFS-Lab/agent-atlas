@@ -10,7 +10,7 @@ A contribution involves presenting an utterance and obtaining evidence that it h
 
 In a hypothetical scheduling exchange, “Friday at three?” followed by “Yes, Canberra time” helps establish a shared interpretation of the proposed time. A generic “OK” may provide weaker evidence about the time zone. What is sufficient depends on the task and the communication medium.
 
-Grounding updates [[common-ground|common ground]] and is studied within [[pragmatics]]. It should be distinguished from _factual grounding_ in some AI discussions: attaching a source to an answer, or using [[retrieval-augmented-generation|retrieval-augmented generation]], does not establish that a conversational partner understood the answer. Conversely, participants can understand an assertion while disagreeing about its truth.
+Grounding updates [[common-ground|Common ground]] and is studied within [[pragmatics|Pragmatics]]. It should be distinguished from _factual grounding_ in some AI discussions: attaching a source to an answer, or using [[retrieval-augmented-generation|Retrieval-augmented generation]], does not establish that a conversational partner understood the answer. Conversely, participants can understand an assertion while disagreeing about its truth.
 
 The original account concerns human communication. Applying its criterion to a conversational agent is a design interpretation; a fluent acknowledgment alone does not demonstrate reliable internal understanding.
 

@@ -18,11 +18,11 @@ A model answering solely from fixed parameters is not retrieval-augmented in thi
 
 ## Relations
 
-- **Distinct from:** a [[belief-state|belief state]] is a distribution over hidden states in a specified decision model; a set of retrieved passages is not that distribution.
-- **Possible modeling bridge:** retrieval _could_ be modeled as an [[action]] whose result is an [[observation]] in a separately designed partially observable task. This is an analogy, not an identification made by Lewis and colleagues.
-- **Distinct from:** a [[policy]] in a POMDP chooses actions with a sequential decision objective; RAG-Sequence and RAG-Token specify how retrieved passages condition output generation.
+- **Distinct from:** a [[belief-state|Belief state]] is a distribution over hidden states in a specified decision model; a set of retrieved passages is not that distribution.
+- **Possible modeling bridge:** retrieval _could_ be modeled as an [[action|Action]] whose result is an [[observation|Observation]] in a separately designed partially observable task. This is an analogy, not an identification made by Lewis and colleagues.
+- **Distinct from:** a [[policy|Policy]] in a POMDP chooses actions with a sequential decision objective; RAG-Sequence and RAG-Token specify how retrieved passages condition output generation.
 
-Related reading: [[agent-memory|Agent memory]] compares parametric and non-parametric memory with other storage architectures; [[context-window|context window]] distinguishes available input from external storage.
+Related reading: [[agent-memory|Agent memory]] compares parametric and non-parametric memory with other storage architectures; [[context-window|Context window]] distinguishes available input from external storage.
 
 ## Sources
 
