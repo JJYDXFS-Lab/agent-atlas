@@ -6,6 +6,8 @@ title: Observation
 
 **Scope:** The perceptual outcome in the POMDP formulation of Kaelbling, Littman, and Cassandra (1998) [1], rather than all uses of “observation” in science.
 
+In AIMA's broader [[agent|agent]] framework, a _percept_ is the content received through sensors, and a _percept sequence_ is the complete perceptual history. [2] The POMDP observation variable below adds a particular probabilistic model; it is not a definition of every sensory input.
+
 ## In the POMDP model
 
 The decision-maker does not directly know the underlying state. After taking an [[action]], it receives an observation drawn according to an observation model. An observation is therefore evidence about a state, not necessarily the state itself. In this model, writing $O(o\mid s',a)$ denotes the probability of receiving observation $o$ after action $a$ when the resulting state is $s'$. Here $O$ is the observation model, $o$ is one possible report, $s'$ is the resulting state, and $a$ is the chosen action; the notation presumes specified sets of states, actions, and observations and a probability distribution over reports. It does not assert that every sensor behaves this way in practice.
@@ -26,3 +28,5 @@ Related reading: [[context-window|Context window]] distinguishes the input avail
 ## Sources
 
 [1] Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. “Planning and Acting in Partially Observable Stochastic Domains.” 1998. _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).
+
+[2] Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. Fourth edition, Global Edition. Pearson Education Limited, 2022. Chapter 2, §2.1, pp. 54–56. [Official edition page](https://aima.cs.berkeley.edu/global-index.html).

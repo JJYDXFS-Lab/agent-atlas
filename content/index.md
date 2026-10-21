@@ -6,7 +6,7 @@ Agent Atlas is a public reference for concepts associated with intelligent agent
 
 ## Agent foundations
 
-How do agents represent uncertainty and choose actions? Explore [[topics/agent-foundations|Agent foundations]] through [[action]], [[observation]], [[belief-state|belief state]], and [[policy]].
+What is an agent, and how does it interact with an environment? Begin with [[agent|Agent]], then explore [[topics/agent-foundations|Agent foundations]] through [[action]], [[observation]], [[belief-state|belief state]], and [[policy]].
 
 ## Memory and information
 
