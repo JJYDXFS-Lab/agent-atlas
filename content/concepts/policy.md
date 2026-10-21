@@ -4,7 +4,7 @@ title: Policy
 
 # Policy
 
-**Scope:** A decision rule in the partially observable planning setting of Kaelbling, Littman, and Cassandra (1998); “policy” in governance or natural-language instructions has different meanings.
+**Scope:** A decision rule in the partially observable planning setting of Kaelbling, Littman, and Cassandra (1998) [1]; “policy” in governance or natural-language instructions has different meanings.
 
 ## In the POMDP model
 
@@ -21,6 +21,6 @@ A policy determines how to choose an [[action]] from information available at de
 - **Responds to:** [[observation|observations]] affect later choices through the updated belief state.
 - **Contrast:** [[retrieval-augmented-generation|retrieval-augmented generation]] describes a retrieval-conditioned generation architecture, not necessarily a policy optimizing sequential reward.
 
-## Reference
+## Sources
 
-Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. 1998. “Planning and Acting in Partially Observable Stochastic Domains.” _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).
+[1] Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. “Planning and Acting in Partially Observable Stochastic Domains.” 1998. _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).

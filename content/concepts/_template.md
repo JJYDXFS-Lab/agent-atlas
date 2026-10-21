@@ -23,6 +23,8 @@ Identify counterexamples and explicitly name relation types (overlap, distinctio
 
 Keep measurements separate from the definition.
 
-## References
+## Sources
 
-Provide full citations and stable links to the sources used above.
+[1] Author(s). “Title.” _Venue or publisher_, verified year/edition/version. Verified section or page locator, if inspected. [Source](https://example.org/replace-with-original-or-doi).
+
+Number references locally from [1] in each article and list each work once, combining record and full-text links in the same entry. Use [1], [2], etc. beside clear source-specific attributions in the body; do not imply support that has not been checked. Include only verified metadata and inspected locators; omit unknown fields rather than guessing. Replace this illustrative reference before publication.

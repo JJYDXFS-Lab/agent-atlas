@@ -12,10 +12,10 @@ This is a different use of “belief” from a POMDP [[belief-state|belief state
 
 ## A computational example
 
-Wilf and colleagues' **SimToM** (2024) separates perspective-taking from question answering. First, a language model filters a story to events the relevant character knows about; then it answers a question using that filtered account. This is a concrete implementation of perspective-taking for the paper's benchmarks, not a general definition of ToM.
+Wilf and colleagues' **SimToM** (2024) [1] separates perspective-taking from question answering. First, a language model filters a story to events the relevant character knows about; then it answers a question using that filtered account. This is a concrete implementation of perspective-taking for the paper's benchmarks, not a general definition of ToM.
 
 The paper evaluates ToMI and BigTOM story-based tasks. Results do not establish that the same procedure reliably infers a real user's unspoken expectations. In an assistant interaction, “the user knows the system cannot see the file” is a hypothesis about the user's beliefs; actual file access is a separate system property. [[conversational-grounding|Grounding]] can supply conversational evidence about that hypothesis, while [[common-ground|common ground]] concerns what participants take to be shared.
 
-## Source
+## Sources
 
-Wilf, Alex, Sihyun Shawn Lee, Paul Pu Liang, and Louis-Philippe Morency. 2024. “Think Twice: Perspective-Taking Improves Large Language Models' Theory-of-Mind Capabilities.” _ACL 2024_, 8292–8308. See §§1–4 for the conceptual framing, first- and second-order tasks, and the two-stage method. [Paper and publication record](https://aclanthology.org/2024.acl-long.451/), [full text](https://aclanthology.org/2024.acl-long.451.pdf).
+[1] Wilf, Alex, Sihyun Shawn Lee, Paul Pu Liang, and Louis-Philippe Morency. “Think Twice: Perspective-Taking Improves Large Language Models' Theory-of-Mind Capabilities.” 2024. _ACL 2024_, 8292–8308. See §§1–4 for the conceptual framing, first- and second-order tasks, and the two-stage method. [Paper and publication record](https://aclanthology.org/2024.acl-long.451/), [full text](https://aclanthology.org/2024.acl-long.451.pdf).

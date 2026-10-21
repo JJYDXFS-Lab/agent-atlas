@@ -4,7 +4,7 @@ title: Retrieval-augmented generation
 
 # Retrieval-augmented generation
 
-**Scope:** The retrieval-augmented generation (RAG) models introduced by Lewis and colleagues (2020), not a claim that every later system called RAG shares the paper's architecture.
+**Scope:** The retrieval-augmented generation (RAG) models introduced by Lewis and colleagues (2020) [1], not a claim that every later system called RAG shares the paper's architecture.
 
 ## In the original paper
 
@@ -24,6 +24,6 @@ A model answering solely from fixed parameters is not retrieval-augmented in thi
 
 Related reading: [[agent-memory|Agent memory]] compares parametric and non-parametric memory with other storage architectures; [[context-window|context window]] distinguishes available input from external storage.
 
-## Reference
+## Sources
 
-Lewis, Patrick, et al. 2020. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” _Advances in Neural Information Processing Systems_ 33. [https://arxiv.org/abs/2005.11401v4](https://arxiv.org/abs/2005.11401v4) (author abstract and paper, version 4). [https://doi.org/10.48550/arXiv.2005.11401](https://doi.org/10.48550/arXiv.2005.11401).
+[1] Lewis, Patrick, et al. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” 2020. _Advances in Neural Information Processing Systems_ 33. [https://arxiv.org/abs/2005.11401v4](https://arxiv.org/abs/2005.11401v4) (author abstract and paper, version 4). [https://doi.org/10.48550/arXiv.2005.11401](https://doi.org/10.48550/arXiv.2005.11401).

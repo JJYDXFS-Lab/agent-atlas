@@ -4,7 +4,7 @@ title: Action
 
 # Action
 
-**Scope:** An agent's choice in a partially observable Markov decision process (POMDP), as formulated by Kaelbling, Littman, and Cassandra (1998). This is not a definition of every physical or computational action.
+**Scope:** An agent's choice in a partially observable Markov decision process (POMDP), as formulated by Kaelbling, Littman, and Cassandra (1998) [1]. This is not a definition of every physical or computational action.
 
 ## In the POMDP model
 
@@ -21,6 +21,6 @@ A robot choosing _move north_ has selected an action even if it slips and stays 
 - **Updates:** an action and a subsequent observation jointly constrain the next [[belief-state|belief state]].
 - **Contrast:** [[retrieval-augmented-generation|retrieval-augmented generation]] incorporates retrieved text into generation; describing that retrieval as an action requires an explicit decision model beyond the original RAG formulation.
 
-## Reference
+## Sources
 
-Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. 1998. “Planning and Acting in Partially Observable Stochastic Domains.” _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).
+[1] Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. “Planning and Acting in Partially Observable Stochastic Domains.” 1998. _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).

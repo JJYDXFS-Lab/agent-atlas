@@ -4,7 +4,7 @@ title: Observation
 
 # Observation
 
-**Scope:** The perceptual outcome in the POMDP formulation of Kaelbling, Littman, and Cassandra (1998), rather than all uses of “observation” in science.
+**Scope:** The perceptual outcome in the POMDP formulation of Kaelbling, Littman, and Cassandra (1998) [1], rather than all uses of “observation” in science.
 
 ## In the POMDP model
 
@@ -23,6 +23,6 @@ If a navigation sensor says “wall nearby,” that report is an observation eve
 
 Related reading: [[context-window|Context window]] distinguishes the input available to an LLM from information stored elsewhere.
 
-## Reference
+## Sources
 
-Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. 1998. “Planning and Acting in Partially Observable Stochastic Domains.” _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).
+[1] Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. “Planning and Acting in Partially Observable Stochastic Domains.” 1998. _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).
