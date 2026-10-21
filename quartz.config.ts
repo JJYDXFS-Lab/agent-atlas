@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
+    baseUrl: "jjydxfs-lab.github.io/agent-atlas",
     ignorePatterns: ["private", "templates", ".obsidian", "**/_template.md"],
     defaultDateType: "modified",
     theme: {
