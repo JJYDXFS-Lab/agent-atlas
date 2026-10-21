@@ -6,7 +6,9 @@ tsconfig.tsbuildinfo
 prof/
 .obsidian/
 private/
-docs/
+/docs/*
+!/docs/README.md
+!/docs/maintenance.md
 PROJECT_STATE.md
 .agent-runs/
 .agent-office-runs/
