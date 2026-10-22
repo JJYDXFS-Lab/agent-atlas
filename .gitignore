@@ -9,6 +9,7 @@ private/
 /docs/*
 !/docs/README.md
 !/docs/maintenance.md
+!/docs/TODO.md
 PROJECT_STATE.md
 .agent-runs/
 .agent-office-runs/
