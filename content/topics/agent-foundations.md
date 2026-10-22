@@ -11,3 +11,5 @@ What is an agent, and how can its interaction with an environment be described? 
 - [[policy|Policy]] — a rule for selecting actions from available information.
 
 Read the scope of each entry: Action, Observation, Belief state, and Policy use a specific POMDP formulation. For a different meaning of belief, see [[theory-of-mind|Theory of mind]]. For how an LLM system supplies information to a decision step, continue to [[memory-and-information|Memory and information]].
+
+For limits on deliberation, design, and the organization of decisions, continue to [[design-and-organizational-decision-making|Design and organizational decision-making]].
