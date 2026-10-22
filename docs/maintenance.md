@@ -2,7 +2,9 @@
 
 ## Contributing sources
 
-Use the concept template and keep definitions scoped to the cited literature. Each article’s Sources section uses [1], [2], etc., restarting at [1], with one entry per work. Include author(s), title, venue or publisher, verified year/edition/version, and a stable original or DOI link. Add section/page locators only when inspected, omit unknown metadata, and place matching [n] markers beside clear source-specific attributions. Check the rendered numbering and links before publication.
+Use the concept template and keep definitions scoped to the cited literature. Use native GFM footnotes: place `[^1]`, `[^2]`, etc. beside checked source-specific attributions and define each work once with `[^1]: Full bibliographic entry`. Reuse the same identifier for repeated citations; Quartz generates clickable superscript numbers and return links. Identifiers are article-local; displayed numbers follow first citation order. Do not add a separate Sources heading: the native renderer produces one Footnotes section.
+
+Include author(s), title, venue or publisher, verified year/edition/version, and a stable original or DOI link. Add section/page locators only when inspected. Keep claim-specific locators beside the marker, for example `(§2.1)[^1]`, as well as the bibliographic coverage in the definition. Omit unknown metadata and do not attach citations to unsupported claims. Check rendered numbering, every citation target and return link, repeated references and source URLs before publication. This uses the existing GitHubFlavoredMarkdown transformer; no bibliography database or Citations transformer is required.
 
 ## Concept titles
 

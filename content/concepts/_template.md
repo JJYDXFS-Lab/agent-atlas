@@ -11,7 +11,7 @@ draft: true
 
 ## Overview
 
-Summarize documented uses in neutral, encyclopedic language. Do not claim a universal definition when sources differ.
+Summarize documented uses in neutral, encyclopedic language. Do not claim a universal definition when sources differ. Place a footnote beside a checked source-specific attribution.[^1]
 
 ## Uses in the literature
 
@@ -25,8 +25,8 @@ Identify counterexamples and explicitly name relation types (overlap, distinctio
 
 Keep measurements separate from the definition.
 
-## Sources
+<!-- Native GFM renders the referenced definitions below as a single Footnotes section. -->
 
-[1] Author(s). “Title.” _Venue or publisher_, verified year/edition/version. Verified section or page locator, if inspected. [Source](https://example.org/replace-with-original-or-doi).
+[^1]: Author(s). “Title.” _Venue or publisher_, verified year/edition/version. Verified section or page locator, if inspected. [Source](https://example.org/replace-with-original-or-doi).
 
-Number references locally from [1] in each article and list each work once, combining record and full-text links in the same entry. Use [1], [2], etc. beside clear source-specific attributions in the body; do not imply support that has not been checked. Include only verified metadata and inspected locators; omit unknown fields rather than guessing. Replace this illustrative reference before publication.
+<!-- Use article-local footnote identifiers such as [^1] and [^2], with one definition per work. Reuse an identifier for repeated citations; keep claim-specific locators beside that marker, for example (§2.1)[^1]. Rendered numbers follow first citation order. Do not add a duplicate Sources heading. Include only verified metadata and inspected locators; omit unknown fields. Replace the illustrative reference before publication. -->

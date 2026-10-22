@@ -2,7 +2,7 @@
 title: Conversational grounding
 ---
 
-Conversational grounding is the collaborative process through which participants establish that they have understood one another sufficiently for their current purposes. In Clark and Brennan's account (1991) [1], the criterion is adequate mutual understanding for the activity at hand, not perfect agreement about every possible implication.
+Conversational grounding is the collaborative process through which participants establish that they have understood one another sufficiently for their current purposes. In Clark and Brennan's account (1991) [^1], the criterion is adequate mutual understanding for the activity at hand, not perfect agreement about every possible implication.
 
 ## Evidence of understanding
 
@@ -14,6 +14,4 @@ Grounding updates [[common-ground|Common ground]] and is studied within [[pragma
 
 The original account concerns human communication. Applying its criterion to a conversational agent is a design interpretation; a fluent acknowledgment alone does not demonstrate reliable internal understanding.
 
-## Sources
-
-[1] Clark, Herbert H., and Susan E. Brennan. “Grounding in Communication.” 1991. In _Perspectives on Socially Shared Cognition_, 127–149, especially pp. 128–133 on the grounding criterion, presentation and acceptance, and evidence of understanding. [Author-hosted chapter](https://web.stanford.edu/~clark/1990s/Clark.Brennan.91.pdf).
+[^1]: Clark, Herbert H., and Susan E. Brennan. “Grounding in Communication.” 1991. In _Perspectives on Socially Shared Cognition_, 127–149, especially pp. 128–133 on the grounding criterion, presentation and acceptance, and evidence of understanding. [Author-hosted chapter](https://web.stanford.edu/~clark/1990s/Clark.Brennan.91.pdf).

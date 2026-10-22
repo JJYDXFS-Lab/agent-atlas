@@ -2,7 +2,7 @@
 title: Pragmatics
 ---
 
-Pragmatics studies language use in context: how an utterance is interpreted and what a speaker does or conveys by producing it. The boundary with semantics is debated. The Stanford Encyclopedia of Philosophy distinguishes **near-side** questions about determining what is said from **far-side** questions about what is accomplished or conveyed beyond saying it [1].
+Pragmatics studies language use in context: how an utterance is interpreted and what a speaker does or conveys by producing it. The boundary with semantics is debated. The Stanford Encyclopedia of Philosophy distinguishes **near-side** questions about determining what is said from **far-side** questions about what is accomplished or conveyed beyond saying it [^1].
 
 ## Meaning in context
 
@@ -12,6 +12,4 @@ Ambiguity, vagueness, and missing detail are not interchangeable. An ambiguous e
 
 [[common-ground|Common ground]] concerns what participants treat as shared. [[conversational-grounding|Conversational grounding]] concerns how they establish sufficient understanding. [[theory-of-mind|Theory of mind]] concerns attributing mental states. Each can matter for interpretation, but none is a synonym for pragmatics. Likewise, the conversational situation is broader than the tokens in an LLM's [[context-window|Context window]].
 
-## Sources
-
-[1] Korta, Kepa, and John Perry. “Pragmatics.” _Stanford Encyclopedia of Philosophy_, especially §1 and §2. [Entry](https://plato.stanford.edu/entries/pragmatics/). This overview is a secondary reference explaining several traditions, not a single universally accepted formal theory.
+[^1]: Korta, Kepa, and John Perry. “Pragmatics.” _Stanford Encyclopedia of Philosophy_, especially §1 and §2. [Entry](https://plato.stanford.edu/entries/pragmatics/). This overview is a secondary reference explaining several traditions, not a single universally accepted formal theory.

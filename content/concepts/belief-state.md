@@ -4,7 +4,7 @@ title: Belief state
 
 # Belief state
 
-**Scope:** The probabilistic state estimate used for planning under partial observability by Kaelbling, Littman, and Cassandra (1998) [1]; not a general claim about the contents of an agent's mind.
+**Scope:** The probabilistic state estimate used for planning under partial observability by Kaelbling, Littman, and Cassandra (1998) [^1]; not a general claim about the contents of an agent's mind.
 
 ## In the POMDP model
 
@@ -30,6 +30,4 @@ After a noisy “door open” report, an agent may assign the door-open state hi
 
 Related reading: [[theory-of-mind|Theory of mind]] uses belief attribution in a different sense; [[agent-memory|Agent memory]] describes storage and retrieval mechanisms.
 
-## Sources
-
-[1] Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. “Planning and Acting in Partially Observable Stochastic Domains.” 1998. _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).
+[^1]: Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. “Planning and Acting in Partially Observable Stochastic Domains.” 1998. _Artificial Intelligence_ 101 (1–2): 99–134. [https://doi.org/10.1016/S0004-3702(98)00023-X](<https://doi.org/10.1016/S0004-3702(98)00023-X>). Author-hosted [paper PDF](https://www.cassandra.org/arc/papers/aij98.pdf).
