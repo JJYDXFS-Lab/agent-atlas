@@ -20,6 +20,6 @@ Edit the Markdown in `content/`, then run `npm run check` and `npm run quartz --
 
 ## Graph labels
 
-The local and global graphs use the original native hover/zoom label behavior. There are no Labels toggle controls or always-visible label overrides. The three graph source files are restored exactly to the pre-feature baseline `22f6f3bf6a715aa999ea669c14a71e6fab47ed88`.
+Local and global graphs each have an independent, default-off name toggle. The pill reads **Show names** when off and **Hide names** when on, with matching accessible names “Show node names” / “Hide node names” and `aria-pressed`. The earlier Aa icon has been removed. Enabling the toggle shows all node names; disabling it restores native hover/zoom label opacity. Every new view, global modal reopen, and theme redraw resets the toggle off and synchronizes its text and accessibility state. The existing themed pill styling and minimum 44px targets are preserved.
 
-Historical release: label toggles were published on 2026-10-30 in `b2f23778ee2da8f28fc787fa39cad668cd1bc659`, followed by documentation in `70848361caa790c2f3048de1c5e792cbe8dc8fa8` and visual polish in `0b166da230bc1b8f1eb57ab451edaf7b5640999a`. All three changes were reverted at the owner’s request on the same date; the feature is no longer active. Prior release receipts remain historical evidence.
+History (2026-10-30): the small label feature and pill polish were published through `0b166da230bc1b8f1eb57ab451edaf7b5640999a`, then reverted in `2fea15f7d9e7d3de13632d1dc9e10ab4ace4d146`. Following the owner’s clarification, the accepted polished implementation is restored with clearer action text. The rollback is historical; name toggles are active again. Prior release receipts remain retained.
