@@ -68,8 +68,24 @@ export default ((opts?: Partial<GraphOptions>) => {
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
         <div class="graph-outer">
           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
-          <button type="button" class="graph-label-toggle" aria-pressed="false">
-            Show labels
+          <button
+            type="button"
+            class="graph-label-toggle"
+            aria-label="Show node labels"
+            aria-pressed="false"
+          >
+            <svg
+              aria-hidden="true"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="m3 17 5-12 5 12M5 13h6m5-3c4-2 6 0 5 3v4m0-4c-7-2-7 6 0 3" />
+            </svg>
+            Labels
           </button>
           <button type="button" class="global-graph-icon" aria-label="Global Graph">
             <svg
@@ -100,8 +116,24 @@ export default ((opts?: Partial<GraphOptions>) => {
         </div>
         <div class="global-graph-outer">
           <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
-          <button type="button" class="graph-label-toggle" aria-pressed="false">
-            Show labels
+          <button
+            type="button"
+            class="graph-label-toggle"
+            aria-label="Show node labels"
+            aria-pressed="false"
+          >
+            <svg
+              aria-hidden="true"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="m3 17 5-12 5 12M5 13h6m5-3c4-2 6 0 5 3v4m0-4c-7-2-7 6 0 3" />
+            </svg>
+            Labels
           </button>
         </div>
       </div>
