@@ -50,6 +50,7 @@ type LinkRenderData = GraphicsInfo & {
 type NodeRenderData = GraphicsInfo & {
   simulationData: NodeData
   label: Text
+  labelAlpha: number
 }
 
 const localStorageKey = "graph-visited"
@@ -283,12 +284,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const activeScale = defaultScale * 1.1
     for (const n of nodeRenderData) {
       const nodeId = n.simulationData.id
+      tweenGroup.add(
+        new Tweened<NodeRenderData>(n).to(
+          { labelAlpha: hoveredNodeId === nodeId ? 1 : n.labelAlpha },
+          100,
+        ),
+      )
 
       if (hoveredNodeId === nodeId) {
         tweenGroup.add(
           new Tweened<Text>(n.label).to(
             {
-              alpha: 1,
               scale: { x: activeScale, y: activeScale },
             },
             100,
@@ -298,7 +304,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         tweenGroup.add(
           new Tweened<Text>(n.label).to(
             {
-              alpha: n.label.alpha,
               scale: { x: defaultScale, y: defaultScale },
             },
             100,
@@ -366,7 +371,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const stage = app.stage
   stage.interactive = false
 
-  const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
+  const labelsContainer = new Container<Text>({
+    zIndex: 3,
+    isRenderGroup: true,
+    eventMode: "none",
+  })
   const nodesContainer = new Container<Graphics>({ zIndex: 2, isRenderGroup: true })
   const linkContainer = new Container<Graphics>({ zIndex: 1, isRenderGroup: true })
   stage.addChild(nodesContainer, labelsContainer, linkContainer)
@@ -402,14 +411,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
-        oldLabelOpacity = label.alpha
+        oldLabelOpacity = nodeRenderDatum.labelAlpha
         if (!dragging) {
           renderPixiFromD3()
         }
       })
       .on("pointerleave", () => {
         updateHoverInfo(null)
-        label.alpha = oldLabelOpacity
+        nodeRenderDatum.labelAlpha = oldLabelOpacity
         if (!dragging) {
           renderPixiFromD3()
         }
@@ -426,6 +435,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       simulationData: n,
       gfx,
       label,
+      labelAlpha: 0,
       color: color(n),
       alpha: 1,
       active: false,
@@ -512,16 +522,24 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           // zoom adjusts opacity of labels too
           const scale = transform.k * opacityScale
           let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
-          const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
-
-          for (const label of labelsContainer.children) {
-            if (!activeNodes.includes(label)) {
-              label.alpha = scaleOpacity
+          for (const node of nodeRenderData) {
+            if (!node.active) {
+              node.labelAlpha = scaleOpacity
             }
           }
         }),
     )
   }
+
+  let showLabels = false
+  const labelButton = graph.parentElement!.querySelector<HTMLButtonElement>(".graph-label-toggle")!
+  labelButton.setAttribute("aria-pressed", "false")
+  const toggleLabels = (event: MouseEvent) => {
+    event.stopPropagation()
+    showLabels = !showLabels
+    labelButton.setAttribute("aria-pressed", String(showLabels))
+  }
+  labelButton.addEventListener("click", toggleLabels)
 
   let stopAnimation = false
   function animate(time: number) {
@@ -545,6 +563,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
 
     tweens.forEach((t) => t.update(time))
+    for (const node of nodeRenderData) {
+      node.label.alpha = showLabels ? 1 : node.labelAlpha
+    }
     app.renderer.render(stage)
     requestAnimationFrame(animate)
   }
@@ -552,6 +573,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   requestAnimationFrame(animate)
   return () => {
     stopAnimation = true
+    labelButton.removeEventListener("click", toggleLabels)
+    labelButton.setAttribute("aria-pressed", "false")
     app.destroy()
   }
 }

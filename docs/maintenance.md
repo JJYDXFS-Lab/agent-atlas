@@ -17,3 +17,9 @@ Use sentence case for concept titles and full-title link labels: capitalize the 
 ## Updating the site
 
 Edit the Markdown in `content/`, then run `npm run check` and `npm run quartz -- build`. Check rendered source numbers, links and any equations before publishing. For date-related changes, compare generated `<time datetime>` values against `git log -1 --format=%cI -- content/path/to/article.md` for files with different histories. Push approved changes to `main`, confirm the GitHub Pages workflow succeeds for that commit, and check representative live pages.
+
+## Graph labels
+
+The local graph and Global Graph each have an independent **Show labels** button. Both start off; enabling one displays all existing node titles without changing graph layout or forces. Turning it off restores native hover/zoom label visibility. Labels can overlap in dense graphs. The choice lasts for that view only: navigation and reopening Global Graph reset it; redrawing the local graph after a theme change also resets it. No preference is stored.
+
+The 2026-10-30 change is limited to the toggle, native label-opacity hooks and styles; existing renderer and view lifecycle are retained. Type checking, formatting and the production build pass. Visual and interaction acceptance remains unverified; release approval explicitly accepts that limitation.
