@@ -1,52 +1,6 @@
 @use "../../styles/variables.scss" as *;
 
 .graph {
-  .graph-label-toggle {
-    position: absolute;
-    top: 0.3rem;
-    right: calc(44px + 0.6rem);
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.4rem;
-    min-width: 44px;
-    min-height: 44px;
-    padding: 0.3rem 0.85rem;
-    appearance: none;
-    border: 1px solid var(--lightgray);
-    border-radius: 999px;
-    background: var(--light);
-    color: var(--darkgray);
-    font: inherit;
-    font-size: 0.85rem;
-    font-weight: 500;
-    line-height: 1;
-    cursor: pointer;
-
-    & > svg {
-      width: 16px;
-      height: 16px;
-      flex-shrink: 0;
-    }
-
-    &:hover {
-      background: color-mix(in srgb, var(--tertiary) 8%, var(--light));
-      border-color: var(--tertiary);
-    }
-
-    &[aria-pressed="true"] {
-      background: color-mix(in srgb, var(--tertiary) 18%, var(--light));
-      border-color: var(--tertiary);
-      color: color-mix(in srgb, var(--tertiary) 35%, var(--dark));
-    }
-  }
-
-  .graph-label-toggle:focus-visible,
-  .global-graph-icon:focus-visible {
-    outline: 2px solid var(--secondary);
-    outline-offset: 2px;
-  }
-
   & > h3 {
     font-size: 1rem;
     margin: 0;
@@ -67,8 +21,8 @@
       border: none;
       color: var(--dark);
       opacity: 0.5;
-      width: 44px;
-      height: 44px;
+      width: 24px;
+      height: 24px;
       position: absolute;
       padding: 0.2rem;
       margin: 0.3rem;
@@ -78,10 +32,6 @@
       background-color: transparent;
       transition: background-color 0.5s ease;
       cursor: pointer;
-      & > svg {
-        width: 24px;
-        height: 24px;
-      }
       &:hover {
         background-color: var(--lightgray);
       }
@@ -101,16 +51,6 @@
 
     &.active {
       display: inline-block;
-    }
-
-    & > .graph-label-toggle {
-      position: fixed;
-      top: calc(10vh + 0.85rem);
-      right: calc(10vw + 0.85rem);
-
-      @media all and not ($desktop) {
-        right: calc(5vw + 0.85rem);
-      }
     }
 
     & > .global-graph-container {
