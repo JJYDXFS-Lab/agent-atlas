@@ -2,7 +2,7 @@
 
 Agent Atlas is a public reference wiki for concepts associated with intelligent agents. Entries distinguish documented uses, conceptual boundaries and relationships, with links to published sources. It is a knowledge-level subsidiary of Atom KB, built and maintained independently.
 
-The first five entries cover action, observation, belief state and policy in the cited POMDP formulation, plus retrieval-augmented generation in its original language-model formulation. Their links aid navigation; they do not imply universal definitions or equivalence between these models.
+The first five entries cover action, observation, belief state and policy in the cited POMDP formulation, plus retrieval-augmented generation as a general retrieval-and-generation pattern, with the original 2020 models presented in historical context. Their links aid navigation; they do not imply universal definitions or equivalence between these models.
 
 ## Local development
 
