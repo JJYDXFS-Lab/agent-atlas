@@ -8,13 +8,13 @@ title: Retrieval-augmented generation
 
 ## In the original paper
 
-Lewis and colleagues combine a pretrained sequence-to-sequence generator (parametric memory) with a neural retriever accessing a dense vector index of Wikipedia passages (non-parametric memory). Retrieved passages condition the generation of an output from an input. Their RAG-Sequence formulation conditions on the same retrieved passage for the whole output sequence, while RAG-Token permits a different passage to be used for each generated token. These are model formulations tested on knowledge-intensive natural-language tasks, not a general theorem that retrieved material is correct.
+Lewis and colleagues combine a pretrained sequence-to-sequence generator (parametric memory) with a neural retriever accessing a dense vector index of Wikipedia passages (non-parametric memory). The generator conditions on the input and a retrieved passage. RAG-Sequence assigns a whole output sequence a probability under each retrieved passage, then sums these probabilities weighted by the retriever's distribution over the top-K passages. RAG-Token instead marginalizes over passages at each output token. (§§2–2.3, pp. 2–3)[^1]
 
-Retrieval supplies selected external context, not necessarily a verified citation, a correct answer, or an independently maintained memory of past interactions. The paper reports evaluations against baselines on open-domain question answering and generation tasks; performance in that experimental scope does not establish reliability for every corpus or deployment. Its abstract explicitly frames updating knowledge and providing provenance as motivating challenges rather than problems proved solved by every generated answer.
+The paper evaluates these models on open-domain question answering, generation, and fact verification. In its Jeopardy question-generation study, human evaluators judged RAG-Token more factual than BART in 42.7% of 452 paired comparisons and BART more factual in 7.1%. Here, factuality means that a statement can be corroborated by trusted external sources. These results support improved factuality in that evaluation setting. (§§3.3, 4.3, pp. 5–6)[^1]
 
 ## Boundary example
 
-A model answering solely from fixed parameters is not retrieval-augmented in this sense. A model supplied with a passage found at inference time _may_ use retrieval-conditioned generation, but copying a plausible yet incorrect passage still produces an incorrect answer. Retrieval is an information-access mechanism, not a guarantee of grounding.
+A model answering solely from fixed parameters is not retrieval-augmented in this sense. A retrieved passage can supply evidence for an answer, and its date can matter: in the paper’s index-swapping experiment, answering about 2018 world leaders with a 2016 Wikipedia index achieved 4% accuracy, compared with 68% using the 2018 index. (§4.5, pp. 7–8)[^1] Assessing factual accuracy and source support therefore requires checking both the retrieved material and the answer’s use of it.
 
 ## Relations
 
@@ -24,4 +24,4 @@ A model answering solely from fixed parameters is not retrieval-augmented in thi
 
 Related reading: [[agent-memory|Agent memory]] compares parametric and non-parametric memory with other storage architectures; [[context-window|Context window]] distinguishes available input from external storage.
 
-[^1]: Lewis, Patrick, et al. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” 2020. _Advances in Neural Information Processing Systems_ 33. [https://arxiv.org/abs/2005.11401v4](https://arxiv.org/abs/2005.11401v4) (author abstract and paper, version 4). [https://doi.org/10.48550/arXiv.2005.11401](https://doi.org/10.48550/arXiv.2005.11401).
+[^1]: Lewis, Patrick, et al. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” 2020. _Advances in Neural Information Processing Systems_ 33. [https://arxiv.org/abs/2005.11401v4](https://arxiv.org/abs/2005.11401v4) (version 4; inspected §§2–2.3, 3.3, 4.3, 4.5, pp. 2–3, 5–8). [https://doi.org/10.48550/arXiv.2005.11401](https://doi.org/10.48550/arXiv.2005.11401).

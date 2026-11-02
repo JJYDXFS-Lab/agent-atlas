@@ -2,10 +2,31 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import type { Options as ExplorerOptions } from "./quartz/components/Explorer"
 
-// Keep Quartz ordering except for the two top-level navigation groups.
+// Explorer functions are serialized into the browser, so keep them self-contained.
+// Lift topic links for display without changing their canonical slugs.
+const explorerMap: ExplorerOptions["mapFn"] = (node) => {
+  if (node.slug === "index") {
+    node.children = node.children.flatMap((child) =>
+      child.slug === "topics/index" ? child.children : [child],
+    )
+  }
+}
+
 const explorerSort: ExplorerOptions["sortFn"] = (a, b) => {
-  if (a.slug === "topics/index" && b.slug === "concepts/index") return -1
-  if (a.slug === "concepts/index" && b.slug === "topics/index") return 1
+  const readingOrder = [
+    "topics/agent-foundations",
+    "topics/memory-and-information",
+    "topics/communication-and-interpretation",
+    "topics/design-and-organizational-decision-making",
+    "concepts/index",
+  ]
+  const aRank = readingOrder.indexOf(a.slug)
+  const bRank = readingOrder.indexOf(b.slug)
+  if (aRank !== -1 || bRank !== -1) {
+    return (
+      (aRank === -1 ? readingOrder.length : aRank) - (bRank === -1 ? readingOrder.length : bRank)
+    )
+  }
 
   if (a.isFolder === b.isFolder) {
     return a.displayName.localeCompare(b.displayName, undefined, {
@@ -50,7 +71,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({ sortFn: explorerSort }),
+    Component.Explorer({ mapFn: explorerMap, sortFn: explorerSort }),
   ],
   right: [
     Component.Graph(),
@@ -74,7 +95,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ sortFn: explorerSort }),
+    Component.Explorer({ mapFn: explorerMap, sortFn: explorerSort }),
   ],
   right: [],
 }

@@ -18,6 +18,18 @@ Use sentence case for concept titles and full-title link labels: capitalize the 
 
 Edit the Markdown in `content/`, then run `npm run check` and `npm run quartz -- build`. Check rendered source numbers, links and any equations before publishing. For date-related changes, compare generated `<time datetime>` values against `git log -1 --format=%cI -- content/path/to/article.md` for files with different histories. Push approved changes to `main`, confirm the GitHub Pages workflow succeeds for that commit, and check representative live pages.
 
+## Explorer navigation
+
+Both content and list-page layouts share the display mapping and ordering in `quartz.layout.ts`. The top-level reading links are Agent foundations, Memory and information, Communication and interpretation, and Design and organizational decision-making, followed by the expandable Concepts folder. The Topics wrapper is hidden only in the Explorer: articles remain under `content/topics/`, with their existing URLs and internal links. The site title remains the home link. Concepts retains Quartz's folder-title link and separate expand/collapse arrow; concept entries keep their alphabetical ordering.
+
+Keep the map and sort functions self-contained because Quartz serializes them for browser execution. Mapping lifts the existing topic nodes from the root's Topics child without changing their slug segments; the trie has no parent pointer to rewrite. Quartz applies filter, map, then sort. Use the same options in both Explorer instances. Recheck the reading order when adding a topic rather than treating this small set as a permanent taxonomy.
+
+For navigation releases, test the rendered Explorer on desktop and mobile, including a content page and a generated list page: direct topic clicks, active topic highlighting, Concepts expansion and concept links, folder-title navigation, and the mobile menu closing after navigation. Static HTML alone does not prove this client-rendered tree works. Check existing article URLs and footnote targets/return links as part of the release gate.
+
+## Latest content and navigation update
+
+2026-11-02: the four topic routes are exposed directly in the Explorer. Agent now explains assessment across environment states with AIMA's vacuum example; Retrieval-augmented generation explains the original marginalization formulations and the paper's factuality/index-date results. Agent foundations connects performance, reward/horizon, and acceptability through a cleaning example. Communication and interpretation adds a purchasing example leading to decision premises and organizational authority. The entries retain public bibliographic references and inspected locators; source files and private reading/review artifacts are not published. No article paths were moved.
+
 ## Graph labels
 
 Local and global graphs each have an independent, default-off name toggle. The pill reads **Show names** when off and **Hide names** when on, with matching accessible names “Show node names” / “Hide node names” and `aria-pressed`. The earlier Aa icon has been removed. Enabling the toggle shows all node names; disabling it restores native hover/zoom label opacity. Every new view, global modal reopen, and theme redraw resets the toggle off and synchronizes its text and accessibility state. The existing themed pill styling and minimum 44px targets are preserved.
