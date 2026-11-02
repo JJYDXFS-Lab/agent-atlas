@@ -5,6 +5,7 @@ import type { Options as ExplorerOptions } from "./quartz/components/Explorer"
 // Explorer functions are serialized into the browser, so keep them self-contained.
 // Lift topic links for display without changing their canonical slugs.
 const explorerMap: ExplorerOptions["mapFn"] = (node) => {
+  if (node.slug === "concepts/index") node.displayName = "Concepts"
   if (node.slug === "index") {
     node.children = node.children.flatMap((child) =>
       child.slug === "topics/index" ? child.children : [child],
