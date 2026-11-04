@@ -24,6 +24,10 @@ Three useful questions connect the entries above to the design of a task:
 
 An illustrative cleaning task could assess cleanliness across a shift, encode cleanliness and energy costs in a planning model, and use minimum cleanliness and battery-life requirements to screen candidate designs. The connection depends on the chosen criteria, time horizon, and resource limits. Continue to [[bounded-rationality|Bounded rationality]] for the limits on deliberation and [[design-and-organizational-decision-making|Design and organizational decision-making]] for how goals and constraints shape decisions.
 
+## From an individual agent to joint activity
+
+Compare [[distributed-cognitive-system|Distributed cognitive system]] with [[joint-cognitive-system|Joint cognitive system]] before choosing the unit whose performance is evaluated: representational transformation and timely joint control answer different questions. [[execution-monitoring|Execution monitoring]] concerns acting with a plan; [[contextual-control-model|Contextual Control Model (COCOM)]] describes patterns of control without replacing the POMDP definitions above. [[assistance-game|Assistance game]] introduces a formal setting with shared payoffs and asymmetric preference information, whose assumptions need separate justification.
+
 [^1]: Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. Fourth edition, Global Edition. Pearson Education Limited, 2022. §2.2.1, p. 57. [Official edition page](https://aima.cs.berkeley.edu/global-index.html).
 
 [^2]: Kaelbling, Leslie Pack, Michael L. Littman, and Anthony R. Cassandra. “Planning and Acting in Partially Observable Stochastic Domains.” 1998. _Artificial Intelligence_ 101 (1–2): 99–134. §§2.1–2.2, 3.1, pp. 101–103, 105. [DOI](<https://doi.org/10.1016/S0004-3702(98)00023-X>), [author-hosted paper](https://people.csail.mit.edu/lpk/papers/aij98-pomdp.pdf).

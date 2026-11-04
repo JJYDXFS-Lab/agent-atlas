@@ -38,4 +38,10 @@ AIMA's simple vacuum-world agent senses its location and local dirt, then moves 
 - [[policy|Policy]] is a related decision rule. The belief-state policy in that entry uses a [[belief-state|Belief state]], while the agent function above uses percept history; the two descriptions should not be conflated.
 - [[agent-memory|Agent memory]] concerns retained information. Memory can support history-dependent behavior, but a simple reflex agent need not use earlier percepts. (§2.4.2)[^1]
 
+## Distinct environment dimensions
+
+AIMA distinguishes whether the environment is **known** from whether it is **observable**: knowledge of the rules and outcomes of actions differs from access to the current state. It also distinguishes a static environment from a **semidynamic** one, in which the environment itself does not change while deliberating but the performance score does. Classifications depend on the task specification and chosen boundary; they are not permanent properties of a technology. (§2.3.2, pp. 63–65)[^1]
+
+For analysis across participants, compare [[distributed-cognitive-system|Distributed cognitive system]] and [[joint-cognitive-system|Joint cognitive system]]. They change the explanatory unit without changing this entry's perception–action definition.
+
 [^1]: Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. Fourth edition, Global Edition. Pearson Education Limited, 2022. Chapter 2: §2.1, pp. 54–56; §2.2, pp. 57–60; §2.3, pp. 60–65; §§2.4–2.4.2, pp. 65–67. [Official edition page](https://aima.cs.berkeley.edu/global-index.html). Page numbers refer to this Global Edition.

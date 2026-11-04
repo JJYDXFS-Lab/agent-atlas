@@ -20,4 +20,10 @@ A [[context-window|Context window]] is a specific model-input limit; bounded rat
 
 An illustrative research assistant has time to inspect five candidate sources. Record what it inspected, why it stopped, and which alternatives remain unexplored. Assess its answer relative to the evidence actually available and the search procedure used; do not describe it as the best answer among all possible sources merely because it completed its budget.
 
+## Attention as a limiting resource
+
+Simon's teletype example distinguishes faster communication from the human attention required to use it: increasing information delivery does not remove a downstream attention bottleneck. (Chapter 6, printed pp. 143–144)[^2] In a modern assistant workflow, more generated text could similarly increase checking work; that is an Atlas hypothesis, not a direct claim about LLM psychology. See [[problem-representation|Problem representation]] for how the organization of information changes work.
+
+[^2]: Simon, Herbert A. _The Sciences of the Artificial_. Third edition. MIT Press, 1996. [Publisher edition](https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/). Locators are printed pages.
+
 [^1]: Simon, Herbert A. _Administrative Behavior: A Study of Decision-Making Processes in Administrative Organizations_. Fourth edition. The Free Press, 1997. ISBN 9780684835822. [Publisher edition](https://www.simonandschuster.com/books/Administrative-Behavior/Herbert-A-Simon/9780684835822). Inspected Chapter V, printed pp. 92–95 (PDF pp. 55–56), and Commentary on Chapter V, printed pp. 118–119 (PDF p. 68). The private scan uses two-page spreads.

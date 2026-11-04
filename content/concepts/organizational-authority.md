@@ -16,4 +16,8 @@ This descriptive account does not establish moral legitimacy, legal authority, o
 
 An illustrative assistant may accept a user's approved spending ceiling as a governing premise while treating a vendor's recommendation as evidence to evaluate. Record who supplied each instruction and its scope. This is an application to software delegation, not a claim that Simon's analysis of human organizations directly specifies an access-control system.
 
-[^1]: Simon, Herbert A. _Administrative Behavior: A Study of Decision-Making Processes in Administrative Organizations_. Fourth edition. The Free Press, 1997. ISBN 9780684835822. [Publisher edition](https://www.simonandschuster.com/books/Administrative-Behavior/Herbert-A-Simon/9780684835822). Inspected Chapter VII, printed pp. 178–181 (PDF pp. 98–99). The private scan uses two-page spreads.
+## Anticipated reactions
+
+Authority need not appear as an explicit command. Simon describes anticipated reactions: a person can adapt a decision to what they expect another will accept, making influence less visible in the record. Acceptance also has limits rather than extending automatically to every subject. (Chapter VII, printed pp. 182–183)[^1] For an Atlas application, an absence of approval messages does not prove an absence of organizational influence; it also does not create software authorization.
+
+[^1]: Simon, Herbert A. _Administrative Behavior: A Study of Decision-Making Processes in Administrative Organizations_. Fourth edition. The Free Press, 1997. ISBN 9780684835822. [Publisher edition](https://www.simonandschuster.com/books/Administrative-Behavior/Herbert-A-Simon/9780684835822). Inspected Chapter VII, printed pp. 178–183 (PDF pp. 98–100). The private scan uses two-page spreads.

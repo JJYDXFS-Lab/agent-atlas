@@ -20,4 +20,8 @@ The relation to [[artifact-interface|Artifact interface]] is a possible basis fo
 
 For a team of agents, measure how often one worker's intermediate changes force others to revise their work. Separately test whether occasional summaries suffice for coordination. These are illustrative diagnostics, not a proof: frequent shared-state conflicts would count against treating the workers as nearly decomposable, even if they have separate role names.
 
-[^1]: Simon, Herbert A. _The Sciences of the Artificial_. Third edition. MIT Press, 1996. ISBN 9780262193740 (hardcover). [Publisher page, paperback ISBN 9780262691918](https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/). Inspected Chapter 8, printed pp. 197–201 (PDF pp. 208–212). Pagination in this portion differs from the earlier chapters; PDF indexes are not printed page numbers.
+## Hierarchy without authority and shared hubs
+
+Simon uses hierarchy for nested systems, including structures without relations of authority or subordination. (Chapter 8, printed p. 185)[^1] In discussing economic subsystems, he also identifies consumption as a strongly connected shared subsystem that requires qualification of a simple near-decomposable picture. (Printed p. 200)[^1] A shared hub can matter even where many other interactions are localized; this does not erase Simon's positive account of approximate decomposability. [[distributed-cognitive-system|Distributed cognitive system]] therefore does not entail weak coupling simply because work is distributed.
+
+[^1]: Simon, Herbert A. _The Sciences of the Artificial_. Third edition. MIT Press, 1996. ISBN 9780262193740 (hardcover). [Publisher page, paperback ISBN 9780262691918](https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/). Inspected Chapter 8, printed p. 185 (PDF p. 196) and pp. 197–201 (PDF pp. 208–212). Pagination in this portion differs from the earlier chapters; PDF indexes are not printed page numbers.

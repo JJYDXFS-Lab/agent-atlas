@@ -23,4 +23,8 @@ Continue to [[least-collaborative-effort|Least collaborative effort]] for why a 
 
 In an illustrative purchasing conversation, colleagues may establish that “under $500” means a total including delivery, then decide whether to adopt that ceiling as a constraint and who may approve the purchase. Follow [[decision-premises|Decision premises]] for how communicated information shapes a choice, and [[organizational-authority|Organizational authority]] for how another person's decision comes to guide action. [[design-and-organizational-decision-making|Design and organizational decision-making]] develops this route from shared understanding to the organization of decisions.
 
+## Unequal access and organized communication
+
+Continue from grounding to [[asymmetric-access-to-interactional-resources|Asymmetric access to interactional resources (analyst term)]] for the difference between recognizing an event and interpreting it within another participant's task. Compare [[horizon-of-observation|Horizon of observation]] for detection and learning opportunities. [[organizational-communication|Organizational communication]] follows reporting and filtering across an organization; successful transmission alone does not establish mutual understanding or acceptance as a decision premise.
+
 [^1]: Clark, Herbert H., and Susan E. Brennan. “Grounding in Communication.” 1991. In _Perspectives on Socially Shared Cognition_, 127–149. Especially pp. 140–147 on media constraints, costs, and their interaction with purpose. [Author-hosted chapter](https://web.stanford.edu/~clark/1990s/Clark%2C%20H.H.%20_%20Brennan%2C%20S.E.%20_Grounding%20in%20communication_%201991.pdf).

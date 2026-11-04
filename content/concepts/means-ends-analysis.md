@@ -16,4 +16,10 @@ The relation to [[action|Action]] is procedural: means–ends analysis helps cho
 
 For a file-editing agent, a desired state might be a document with every required heading present. Compare the current document against that state, select an edit for a missing heading, apply it, and inspect the result before continuing. Track unresolved differences and failed edits. This is an illustrative application; reducing a visible formatting difference does not establish that the document's substantive content is correct.
 
-[^1]: Simon, Herbert A. _The Sciences of the Artificial_. Third edition. MIT Press, 1996. ISBN 9780262193740 (hardcover). [Publisher page, paperback ISBN 9780262691918](https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/). Inspected Chapter 5, printed pp. 121–122 (PDF pp. 133–134).
+## Decomposition and interaction between steps
+
+Simon qualifies when a problem can be factored into subproblems: an action that removes one difference can affect others, and its preconditions can require additional work. Keeping alternative paths matters when those interactions defeat a simple sequence of local improvements. (Chapter 5, printed pp. 123–124)[^1] A list of subtasks is not evidence that each can be solved independently.
+
+[[problem-representation|Problem representation]] concerns how states and operations are structured; [[execution-monitoring|Execution monitoring]] distinguishes checks during action. The recursive why/what/how analysis in [[function-allocation|Function allocation and function congruence]] is a different functional-decomposition method, not another name for GPS.
+
+[^1]: Simon, Herbert A. _The Sciences of the Artificial_. Third edition. MIT Press, 1996. ISBN 9780262193740 (hardcover). [Publisher page, paperback ISBN 9780262691918](https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/). Inspected Chapter 5, printed pp. 121–124 (PDF pp. 133–136).
