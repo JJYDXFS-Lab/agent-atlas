@@ -22,6 +22,6 @@ How are goals pursued under limited resources, and how are decisions coordinated
 
 ## Collaboration across people and artefacts
 
-Compare [[distributed-cognitive-system|Distributed cognitive system]] and [[joint-cognitive-system|Joint cognitive system]] for different analytical units. Follow [[problem-representation|Problem representation]], [[situated-action|Situated action]], and [[function-allocation|Function allocation and function congruence]] into the design route; follow [[horizon-of-observation|Horizon of observation]] and [[asymmetric-access-to-interactional-resources|Asymmetric access to interactional resources (analyst term)]] into the information and communication routes. The existing four topic pages connect the full set of entries, including monitoring, assistance games, and changes in work and responsibility.
+How is work divided across people and artefacts, and how can a joint system detect trouble and recover in time? Explore [[topics/collaboration-across-people-and-artefacts|Collaboration across people and artefacts]] through [[distributed-cognitive-system|Distributed cognitive system]], [[joint-cognitive-system|Joint cognitive system]], [[function-allocation|Function allocation and function congruence]], and [[execution-monitoring|Execution monitoring]].
 
 These themes are reading routes, not an exhaustive classification. Crosslinks connect concepts across themes; a graph edge does not by itself imply equivalence or agreement between theories. Each entry identifies the scope and sources behind its claims.

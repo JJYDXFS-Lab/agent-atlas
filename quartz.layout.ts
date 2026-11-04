@@ -19,6 +19,7 @@ const explorerSort: ExplorerOptions["sortFn"] = (a, b) => {
     "topics/memory-and-information",
     "topics/communication-and-interpretation",
     "topics/design-and-organizational-decision-making",
+    "topics/collaboration-across-people-and-artefacts",
     "concepts/index",
   ]
   const aRank = readingOrder.indexOf(a.slug)

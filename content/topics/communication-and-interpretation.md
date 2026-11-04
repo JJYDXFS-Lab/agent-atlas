@@ -27,4 +27,6 @@ In an illustrative purchasing conversation, colleagues may establish that “und
 
 Continue from grounding to [[asymmetric-access-to-interactional-resources|Asymmetric access to interactional resources (analyst term)]] for the difference between recognizing an event and interpreting it within another participant's task. Compare [[horizon-of-observation|Horizon of observation]] for detection and learning opportunities. [[organizational-communication|Organizational communication]] follows reporting and filtering across an organization; successful transmission alone does not establish mutual understanding or acceptance as a decision premise.
 
+For how work is divided, monitored, and recovered across participants and artefacts, continue to [[collaboration-across-people-and-artefacts|Collaboration across people and artefacts]]. Coordinating control is not the same question as establishing what an utterance means or whether it is sufficiently understood.
+
 [^1]: Clark, Herbert H., and Susan E. Brennan. “Grounding in Communication.” 1991. In _Perspectives on Socially Shared Cognition_, 127–149. Especially pp. 140–147 on media constraints, costs, and their interaction with purpose. [Author-hosted chapter](https://web.stanford.edu/~clark/1990s/Clark%2C%20H.H.%20_%20Brennan%2C%20S.E.%20_Grounding%20in%20communication_%201991.pdf).
