@@ -20,6 +20,8 @@ An illustrative delegated agent receives a spending limit and a required deliver
 
 ## Discretion and partial visibility
 
+Compare [[joint-action#activity-state-and-record|Activity state and record]] when reading an interaction history, and [[joint-project|Joint project]] when asking what a response commits participants to. These links distinguish the course of an exchange from the premises shaping a choice; they do not turn a transcript into a complete decision history.
+
 Simon locates discretion in the premises left unspecified, rather than treating it as an all-or-nothing property of the final decision-maker. His composite-decision discussion also limits what any participant can reconstruct about the whole decision. A record of the final signature cannot reveal all the contributions, exclusions, and anticipated reactions that shaped it. (Chapter XI, printed pp. 307–310)[^1] [[organizational-communication|Organizational communication]] develops the reporting and screening mechanisms through which some premises become available. Audit histories can supply partial evidence; they should not be described as complete influence histories.
 
 [^1]: Simon, Herbert A. _Administrative Behavior: A Study of Decision-Making Processes in Administrative Organizations_. Fourth edition. The Free Press, 1997. ISBN 9780684835822. [Publisher edition](https://www.simonandschuster.com/books/Administrative-Behavior/Herbert-A-Simon/9780684835822). Inspected Chapter VII, printed p. 177 (PDF p. 97), and Chapter XI, printed pp. 306–310 (PDF pp. 162–164). The private scan uses two-page spreads.

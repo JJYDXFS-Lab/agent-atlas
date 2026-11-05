@@ -14,6 +14,8 @@ The levels matter because repairing a local precondition need not rescue the who
 
 ## Boundaries and application
 
+For a distinct account of evidence that a joint action has succeeded, compare [[conversational-grounding#joint-closure-in-using-language-1996|joint closure]]. [[joint-action#activity-state-and-record|Activity state and record]] also helps frame an audit question: which recorded events establish a change in the task, rather than merely reporting activity?
+
 [[means-ends-analysis|Means–ends analysis]] concerns selecting operators through differences; monitoring concerns whether action remains appropriate during execution. [[contextual-control-model|Contextual Control Model (COCOM)]] describes patterns and conditions of control rather than supplying this planning algorithm. Recovery also depends on the access and competence discussed in [[function-allocation|Function allocation and function congruence]].
 
 In an Atlas example, an assistant checks that an input file exists, that the full analysis can still meet its constraints, and that the requested output remains wanted. The last check may require asking the task owner. Goal monitoring in a formal planning account does not authorize a software agent to replace a user's goals; [[organizational-authority|Organizational authority]] addresses a different issue.

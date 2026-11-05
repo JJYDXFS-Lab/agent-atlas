@@ -16,6 +16,8 @@ What information is retained, retrieved, and available now? Explore [[topics/mem
 
 How do participants understand language and one another? Explore [[topics/communication-and-interpretation|Communication and interpretation]] through [[pragmatics|Pragmatics]], [[common-ground|Common ground]], [[conversational-grounding|Conversational grounding]], and [[theory-of-mind|Theory of mind]].
 
+Follow [[joint-salience|Joint salience]] for coordination choices, [[composite-signal|Composite signal]] for words and other signaling methods together, and [[layering-in-language-use|Layering in language use]] for the attribution of quoted, fictional, and staged utterances.
+
 ## Design and organizational decision-making
 
 How are goals pursued under limited resources, and how are decisions coordinated? Explore [[topics/design-and-organizational-decision-making|Design and organizational decision-making]] through [[bounded-rationality|Bounded rationality]], [[satisficing|Satisficing]], and [[decision-premises|Decision premises]].
@@ -23,5 +25,7 @@ How are goals pursued under limited resources, and how are decisions coordinated
 ## Collaboration across people and artefacts
 
 How is work divided across people and artefacts, and how can a joint system detect trouble and recover in time? Explore [[topics/collaboration-across-people-and-artefacts|Collaboration across people and artefacts]] through [[distributed-cognitive-system|Distributed cognitive system]], [[joint-cognitive-system|Joint cognitive system]], [[function-allocation|Function allocation and function congruence]], and [[execution-monitoring|Execution monitoring]].
+
+For the coordination of participants' contributions and the business they undertake, read [[joint-action|Joint action]] and [[joint-project|Joint project]]. Their interaction-level questions complement the system-level routes.
 
 These themes are reading routes, not an exhaustive classification. Crosslinks connect concepts across themes; a graph edge does not by itself imply equivalence or agreement between theories. Each entry identifies the scope and sources behind its claims.

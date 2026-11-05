@@ -26,9 +26,27 @@ As collective purposes change, so do the criterion for sufficient understanding 
 
 ## Boundaries and agent interpretation
 
+The acceptance phase of grounding concerns evidence of understanding; it is not a definition of every kind of conversational uptake. [[joint-project|Joint project]] follows the different possibilities for taking up, modifying, declining, or withdrawing from proposed work.
+
 Grounding updates [[common-ground|Common ground]] and is studied within [[pragmatics|Pragmatics]]. It should be distinguished from _factual grounding_ in some AI discussions: attaching a source to an answer, or using [[retrieval-augmented-generation|Retrieval-augmented generation]], does not establish that a conversational partner understood the answer. Conversely, participants can understand an assertion while disagreeing about its truth.
 
 The original account concerns human communication. The following agent implications are Atlas design interpretations, not findings about artificial agents in the chapter: seek evidence tied to the task, such as identifying the intended table or checking an exact value, and make repair possible when that evidence is inadequate. A fluent acknowledgment alone does not demonstrate reliable internal understanding. Understanding a plan and authorizing its execution are separate questions; evidence of grounding does not by itself supply permission to act.
+
+## Joint closure in Using Language (1996)
+
+Clark's later book places grounding within **joint closure**: participants try to establish a mutual belief that their joint action has succeeded well enough for current purposes. Closure applies across the [[joint-action#levels-of-joint-action|levels of joint action]], including attending to behavior, identifying a signal, construing its meaning, and considering a proposed project. Evidence of success at one level must not be mistaken for completion of whatever larger task was proposed. (pp. 222, 225–226)[^3]
+
+Evidence must be **valid**—reliable and interpretable—**economical** to obtain, and **timely** for the next action. These requirements trade off with the current purpose. The point is not to demand the strongest imaginable confirmation after every utterance, but to secure evidence appropriate to the action being closed. (pp. 223–226)[^3]
+
+A response can reveal a problem rather than close it. In Clark's example of **third-turn repair**, a question about who evaluates property receives an answer about a surveyor; the questioner then clarifies that the question concerned who sets the asking price. The answer displayed a construal that could be corrected. This illustrates why downward evidence is defeasible, not an irreversible certificate of understanding. (p. 234)[^3]
+
+## Projected evidence and tracks
+
+The 1996 account distinguishes the primary **track** of business from a collateral track concerned with the communicative acts themselves. A signal can do work in both: Clark analyzes a particular “yes” as understanding evidence in track 2 and ratification of an assertion in track 1. That contextual analysis does not make every acknowledgment agreement with content, still less permission to act. Tracks are different from action levels and from the represented worlds in [[layering-in-language-use|Layering in language use]]. (p. 243; pp. 389–391)[^3]
+
+With **projected evidence**, the way a contributor presents something anticipates what kind of response would suffice. A complete question can project an answer; an installment can project explicit confirmation; a verbatim installment can project repetition; a backgrounded acknowledgment can project continued attention. Evidence is also expected at an appropriate point in the exchange, and missing or delayed evidence may prompt clarification. The inference depends on what was projected and what the medium makes observable, not a general rule that silence means consent. (pp. 249–252)[^3]
+
+In a tentative interface application, requesting an exact data-version identifier projects different evidence from asking whether an explanation is understandable. Acknowledging receipt, displaying a task interpretation, and reporting a completed check should remain distinguishable, with an opportunity to correct each. Machine latency alone does not establish the processing difficulty attributed to a human conversational delay.
 
 ## Suchman: repair opportunities and unequal access
 
@@ -39,3 +57,5 @@ Suchman's discussion of conversation analysis uses participants' opportunities t
 [^2]: Suchman, Lucy. _Human–Machine Reconfigurations: Plans and Situated Actions_. Second edition. Cambridge University Press, 2007 (copyright year; the edition states first published in print in 2006). [Publisher DOI](https://doi.org/10.1017/CBO9780511808418). Chapters 2–10 retain the 1987 study with editorial changes and added notes; Chapters 1 and 11–15 belong to the expanded edition. Locators are printed pages.
 
 [^1]: Clark, Herbert H., and Susan E. Brennan. “Grounding in Communication.” 1991. In _Perspectives on Socially Shared Cognition_, 127–149. Especially pp. 128–140 on the grounding criterion, contributions, evidence, collaborative effort, and purpose; pp. 145–147 on medium-dependent tradeoffs. [Author-hosted chapter](https://web.stanford.edu/~clark/1990s/Clark%2C%20H.H.%20_%20Brennan%2C%20S.E.%20_Grounding%20in%20communication_%201991.pdf).
+
+[^3]: Clark, Herbert H. _Using Language_. Cambridge University Press, 1996. Consulted copy: sixth printing, 2005. ISBN 0-521-56745-9 (paperback). [Publisher book page](https://www.cambridge.org/core/books/using-language/4E7EBC4EC742C26436F6CF187C43F239). Locators are printed pages.

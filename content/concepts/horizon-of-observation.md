@@ -12,6 +12,8 @@ A participant can encounter others' actions and their consequences without being
 
 ## Related concepts
 
+[[joint-salience|Joint salience]] asks which coordination solution stands out against what participants take to be shared. This provides a useful next question after examining observational access: even if both can see several candidate objects, which one can they identify together?
+
 [[observation|Observation]] in this Atlas uses a specified POMDP formulation; a horizon of observation describes access within organized practice and is not itself an observation probability distribution. [[common-ground|Common ground]] requires a further account of what participants take to be shared. [[asymmetric-access-to-interactional-resources|Asymmetric access to interactional resources (analyst term)]] emphasizes unequal access to the resources and relevance of an unfolding interaction; Hutchins's emphasis here is detection and learning opportunity.
 
 ## Application

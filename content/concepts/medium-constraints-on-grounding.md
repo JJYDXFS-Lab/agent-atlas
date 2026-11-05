@@ -41,8 +41,22 @@ Medium and purpose interact. A reviewable record may serve scheduling or task as
 
 A missing email reply illustrates a distinct evidential problem: the sender may not know whether the message was received, attended to, or understood (p. 146).[^1] See the stages and positive evidence discussed in [[conversational-grounding#Evidence of understanding|Conversational grounding]]. Reviewability alone does not resolve that uncertainty.
 
+## Face-to-face features in Using Language (1996)
+
+The later book describes face-to-face conversation through ten features: copresence, visibility, audibility, instantaneity, evanescence, recordlessness, simultaneity, extemporaneity, self-determination, and self-expression. Clark uses these to characterize a basic conversational setting and examine how other settings depart from it. This is a different list and analytical use from the 1991 chapter's eight medium constraints above; it should not be merged with them into a single checklist. (pp. 9–10)[^2]
+
+The 1996 account also distinguishes coordinating **content** from coordinating **process**. A letter writer and reader can coordinate on people, events, and conventions despite working at different times. They still make assumptions about each other's processing, but do not synchronize it as conversational partners do. (p. 90)[^2]
+
+## Continuous evidence from shared action
+
+Clark's account of Brennan's map task shows how a change in visibility changes the response itself. When the guide could see the partner's cursor and both knew this, movement could provide evidence of understanding during the instruction. The guide could correct or refine the instruction while the cursor moved, rather than waiting for a separate spoken response. This account is read through Clark's book, not an independent verification of Brennan's study. (pp. 324–327)[^2]
+
+[[composite-signal|Composite signal]] explains how an action can be made into a recognizable signal; [[conversational-grounding#projected-evidence-and-tracks|projected evidence]] explains why the response sought depends on the presentation. In a tentative shared-editor analogy, visible selection of the intended cell may help coordinate a reference, but evidence that a cursor moved does not settle every question about the edit or its authorization.
+
 ## Atlas extensions to agents
 
 Applying this framework to chat, streaming, or background agent work is an Atlas design interpretation. Inspect what a particular interface actually supports: simultaneous feedback, a reviewable transcript, and private revision are different capabilities. Storing a transcript in [[agent-memory|Agent memory]] or placing it in a [[context-window|Context window]] can make text available without establishing shared understanding. Assess interface choices against the evidence required for the task, and keep evidence of understanding separate from permission to act.
 
 [^1]: Clark, Herbert H., and Susan E. Brennan. “Grounding in Communication.” 1991. In _Perspectives on Socially Shared Cognition_, 127–149. Inspected pp. 140–147 on media constraints, grounding costs, and their interaction with purpose. [Author-hosted chapter](https://web.stanford.edu/~clark/1990s/Clark%2C%20H.H.%20_%20Brennan%2C%20S.E.%20_Grounding%20in%20communication_%201991.pdf).
+
+[^2]: Clark, Herbert H. _Using Language_. Cambridge University Press, 1996. Consulted copy: sixth printing, 2005. ISBN 0-521-56745-9 (paperback). [Publisher book page](https://www.cambridge.org/core/books/using-language/4E7EBC4EC742C26436F6CF187C43F239). Locators are printed pages.

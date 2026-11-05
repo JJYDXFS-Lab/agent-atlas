@@ -18,6 +18,8 @@ The book's main domain is human-inclusive systems. Its wording is not fully unif
 
 ## Related concepts
 
+[[joint-action|Joint action]] examines coordinated participatory actions; [[joint-project|Joint project]] follows proposed and negotiated pieces of business. These offer interaction-level questions alongside the functional and control questions here. Sharing the word “joint” does not make the analytical units identical.
+
 [[distributed-cognitive-system|Distributed cognitive system]] follows representational propagation and transformation; this account emphasizes joint function and control. The two perspectives can apply to the same case without being synonyms. [[agent|Agent]] supplies a perception–action unit, and [[artifact-interface|Artifact interface]] a purpose-relative inner/outer relation. Nesting such units does not prove [[near-decomposability|Near decomposability]].
 
 Continue to [[function-allocation|Function allocation and function congruence]] for capability distribution and recovery, and [[contextual-control-model|Contextual Control Model (COCOM)]] for a descriptive approach to changing control conditions. Shared understanding may support joint work, but naming an ensemble does not demonstrate [[conversational-grounding|Conversational grounding]].

@@ -24,6 +24,8 @@ Continue to [[agent-foundations|Agent foundations]] for perception–action and 
 
 ## Representation, plans, and joint work
 
+[[joint-project|Joint project]] adds a route through proposed work, joint construal, and commitments: a response may revise the project rather than simply accept or reject a fixed plan. Pair it with [[decision-premises|Decision premises]] when examining which constraints govern a choice, and with [[organizational-authority|Organizational authority]] when examining whose decisions guide action. For a simulated decision or quoted approval, [[layering-in-language-use|Layering in language use]] helps identify the domain and role to which the utterance belongs.
+
 Read [[problem-representation|Problem representation]] for how representations structure operations and organization. [[organizational-communication|Organizational communication]] connects reporting, filtering, and information location to decision premises. For plans in practice, distributed work, function allocation, and monitoring, continue to [[collaboration-across-people-and-artefacts|Collaboration across people and artefacts]].
 
 ## Changing work, records, and responsibility

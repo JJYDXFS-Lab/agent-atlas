@@ -6,6 +6,9 @@ How do participants interpret an utterance, coordinate understanding, and reason
 
 - [[pragmatics|Pragmatics]] — language use and meaning in context.
 - [[common-ground|Common ground]] — information participants take to be shared.
+- [[joint-salience|Joint salience]] — choosing a coordination solution relative to current common ground.
+- [[composite-signal|Composite signal]] — combining description, indication, and demonstration.
+- [[layering-in-language-use|Layering in language use]] — attributing utterances across quotation, pretense, and other domains of action.
 - [[conversational-grounding|Conversational grounding]] — establishing sufficient mutual understanding.
 - [[least-collaborative-effort|Least collaborative effort]] — the combined work of establishing understanding.
 - [[medium-constraints-on-grounding|Medium constraints on grounding]] — available techniques, costs, and purpose-dependent tradeoffs.
@@ -20,6 +23,8 @@ Start with [[common-ground|Common ground]] for the shared basis of communication
 Continue to [[least-collaborative-effort|Least collaborative effort]] for why a brief repair or an additional exchange may save joint work, then [[medium-constraints-on-grounding|Medium constraints on grounding]] for the eight constraints, eleven interdependent costs, and their interaction with purpose. The latter distinguishes the original human communication framework from Atlas applications to chat, streaming, and background agents.
 
 ## From understanding to coordinated decisions
+
+Read [[joint-action#levels-of-joint-action|Levels of joint action]] for the simultaneous contributions involved in attending, identifying, construing, and considering. Continue to [[joint-project|Joint project]] for how a proposal can be taken up, changed, declined, or left behind. The 1996 extension in [[conversational-grounding#joint-closure-in-using-language-1996|Conversational grounding]] then explains closure and [[conversational-grounding#projected-evidence-and-tracks|projected evidence]] without replacing the 1991 grounding criterion.
 
 In an illustrative purchasing conversation, colleagues may establish that “under $500” means a total including delivery, then decide whether to adopt that ceiling as a constraint and who may approve the purchase. Follow [[decision-premises|Decision premises]] for how communicated information shapes a choice, and [[organizational-authority|Organizational authority]] for how another person's decision comes to guide action. [[design-and-organizational-decision-making|Design and organizational decision-making]] develops this route from shared understanding to the organization of decisions.
 

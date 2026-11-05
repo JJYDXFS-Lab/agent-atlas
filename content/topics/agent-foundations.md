@@ -26,6 +26,8 @@ An illustrative cleaning task could assess cleanliness across a shift, encode cl
 
 ## From an individual agent to joint activity
 
+[[joint-action|Joint action]] asks what makes individual contributions parts of coordinated activity. Its [[joint-action#levels-of-joint-action|action levels]] describe simultaneous aspects of communication, not a replacement for the POMDP action definition or a sequential agent pipeline. [[joint-project|Joint project]] follows what participants propose to do together and how that work can be revised.
+
 Compare [[distributed-cognitive-system|Distributed cognitive system]] with [[joint-cognitive-system|Joint cognitive system]] before choosing the unit whose performance is evaluated: representational transformation and timely joint control answer different questions. [[execution-monitoring|Execution monitoring]] concerns acting with a plan; [[contextual-control-model|Contextual Control Model (COCOM)]] describes patterns of control without replacing the POMDP definitions above. [[assistance-game|Assistance game]] introduces a formal setting with shared payoffs and asymmetric preference information, whose assumptions need separate justification.
 
 [^1]: Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. Fourth edition, Global Edition. Pearson Education Limited, 2022. §2.2.1, p. 57. [Official edition page](https://aima.cs.berkeley.edu/global-index.html).

@@ -22,6 +22,8 @@ Hutchins's **computational ecology** concerns the mutual fit of tools, practices
 
 ## Boundaries and application
 
+Compare [[joint-action|Joint action]] for how participants coordinate their contributions, and [[joint-action#activity-state-and-record|Activity state and record]] for the distinction between a current situation and its event history. Use these as additional questions about interaction, not as substitutes for Hutchins's system-level account of computation.
+
 [[joint-cognitive-system|Joint cognitive system]] emphasizes joint function and timely control; a successful account of distributed computation does not alone show adequate recovery from disturbance. [[near-decomposability|Near decomposability]] requires particular coupling strengths and timescales; distribution alone does not establish it. [[horizon-of-observation|Horizon of observation]] concerns the access needed to detect and learn from others' work, rather than guaranteed [[common-ground|Common ground]].
 
 An Atlas application is to evaluate a researcher, assistant, retrieval tool, and evidence table as a system while separately measuring the assistant alone. State the attribution unit and inspect transformations between sources and conclusions. This is a proposed analytical use, not an empirical result about contemporary agents or proof that more workers improve performance.

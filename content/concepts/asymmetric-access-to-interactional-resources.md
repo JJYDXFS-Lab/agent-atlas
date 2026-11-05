@@ -20,6 +20,8 @@ The conclusions distinguish improving machine access, making limitations visible
 
 ## Contemporary application
 
+[[composite-signal|Composite signal]] directs attention to how words, pointers, and demonstrations work together; [[conversational-grounding#projected-evidence-and-tracks|projected evidence]] asks what response a presentation makes relevant. These provide focused questions about resources for interpretation and repair without assuming that adding another channel resolves the access problem.
+
 An illustrative assistant might see a clicked control but lack the document state or the user's reason for clicking. A useful evaluation would distinguish recognized events, inferred task relevance, and available repair channels. This is an Atlas extrapolation: the historical copier's limitations are not evidence of a universal inability of modern language systems. No precise speaker-column transcription is reproduced here; the argument uses the cited prose analysis.
 
 [^s]: Suchman, Lucy. _Human–Machine Reconfigurations: Plans and Situated Actions_. Second edition. Cambridge University Press, 2007 (copyright year; the edition states first published in print in 2006). [Publisher DOI](https://doi.org/10.1017/CBO9780511808418). Chapters 2–10 retain the 1987 study with editorial changes and added notes; Chapters 1 and 11–15 belong to the expanded edition. Locators are printed pages.

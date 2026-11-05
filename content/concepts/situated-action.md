@@ -16,6 +16,8 @@ The copier study examines how users make sense of instructions amid their own de
 
 ## Comparison and application
 
+For a complementary question about how participants establish and revise the business they are doing together, follow [[joint-project|Joint project]]. Its account of proposals and responses offers a focused comparison with situated action, rather than replacing Suchman's account of plans and circumstances.
+
 [[means-ends-analysis|Means–ends analysis]] describes Simon's selective search procedure; situated action asks what realizing a plan requires in practice. Suchman's critique should not replace Simon's own account: [[problem-representation|Problem representation]] and [[decision-premises|Decision premises]] also address how problems and choices are organized. The perspectives differ without reducing Simon to inflexible advance planning.
 
 For an Atlas illustration, a data-cleaning plan may say “resolve duplicate records.” Applying it requires deciding what counts as the same entity, recognizing exceptions, and obtaining missing context. Record that situated work when assessing the plan's adequacy. This example is a contemporary application, not evidence from the copier study about LLM capabilities. [[human-machine-reconfiguration|Human–machine reconfiguration]] extends the inquiry to how boundaries and responsibilities are enacted.

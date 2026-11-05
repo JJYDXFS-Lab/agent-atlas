@@ -14,6 +14,8 @@ This descriptive account does not establish moral legitimacy, legal authority, o
 
 ## Operational example
 
+[[joint-project|Joint project]] offers a comparison at the scale of a proposal and response: what is being undertaken, on which interpretation, and with which commitments? Keep that question separate from whether another's decision is accepted as a governing premise in Simon's sense.
+
 An illustrative assistant may accept a user's approved spending ceiling as a governing premise while treating a vendor's recommendation as evidence to evaluate. Record who supplied each instruction and its scope. This is an application to software delegation, not a claim that Simon's analysis of human organizations directly specifies an access-control system.
 
 ## Anticipated reactions
