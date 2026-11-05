@@ -16,6 +16,8 @@ A participant can encounter others' actions and their consequences without being
 
 [[observation|Observation]] in this Atlas uses a specified POMDP formulation; a horizon of observation describes access within organized practice and is not itself an observation probability distribution. [[common-ground|Common ground]] requires a further account of what participants take to be shared. [[asymmetric-access-to-interactional-resources|Asymmetric access to interactional resources (analyst term)]] emphasizes unequal access to the resources and relevance of an unfolding interaction; Hutchins's emphasis here is detection and learning opportunity.
 
+[[heeding-practices|Heeding practices]] adds a focus on domain-specific monitoring, displaying, and expectations of competent conduct; it complements the distinction here between access and recognition.
+
 ## Application
 
 For an illustrative agent review workflow, give the reviewer the source evidence and the transformations needed to inspect a claim, then test whether they can actually detect a seeded error. Supplying a longer transcript is not proof of diagnostic access. The example is an Atlas proposal, not an experimental finding about LLM reviewers. [[distributed-cognitive-system|Distributed cognitive system]] supplies the broader account of how work is distributed.

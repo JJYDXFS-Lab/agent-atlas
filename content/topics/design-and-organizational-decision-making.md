@@ -12,6 +12,8 @@ How do systems pursue goals with limited resources, and how do organizations sha
 - [[means-ends-analysis|Means–ends analysis]] — selecting actions by relating state differences to relevant operators.
 - [[near-decomposability|Near decomposability]] — stronger within-subsystem interactions and weaker, slower cross-subsystem effects.
 
+[[cognitive-requirements|Cognitive requirements]] connects difficult judgments, their causes, common errors, and useful strategies to design and evaluation. Its decision requirements table is one way of representing the findings; [[problem-detection|Problem detection]] illustrates a challenge the analysis may uncover.
+
 ## Organizational choice
 
 - [[fact-value-distinction|Fact–value distinction]] — separating empirical premises from preferred ends in Simon's framework.
@@ -27,6 +29,8 @@ Continue to [[agent-foundations|Agent foundations]] for perception–action and 
 [[joint-project|Joint project]] adds a route through proposed work, joint construal, and commitments: a response may revise the project rather than simply accept or reject a fixed plan. Pair it with [[decision-premises|Decision premises]] when examining which constraints govern a choice, and with [[organizational-authority|Organizational authority]] when examining whose decisions guide action. For a simulated decision or quoted approval, [[layering-in-language-use|Layering in language use]] helps identify the domain and role to which the utterance belongs.
 
 Read [[problem-representation|Problem representation]] for how representations structure operations and organization. [[organizational-communication|Organizational communication]] connects reporting, filtering, and information location to decision premises. For plans in practice, distributed work, function allocation, and monitoring, continue to [[collaboration-across-people-and-artefacts|Collaboration across people and artefacts]].
+
+[[articulation-work|Articulation work]] addresses the ongoing work of making divided contributions fit together, including revising coordination arrangements.
 
 ## Changing work, records, and responsibility
 

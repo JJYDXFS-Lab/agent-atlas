@@ -22,11 +22,15 @@ Follow [[joint-salience|Joint salience]] for coordination choices, [[composite-s
 
 How are goals pursued under limited resources, and how are decisions coordinated? Explore [[topics/design-and-organizational-decision-making|Design and organizational decision-making]] through [[bounded-rationality|Bounded rationality]], [[satisficing|Satisficing]], and [[decision-premises|Decision premises]].
 
+[[cognitive-requirements|Cognitive requirements]] connects difficult judgments to design and evaluation; [[problem-detection|Problem detection]] asks how trouble is recognized before it is fully specified.
+
 ## Collaboration across people and artefacts
 
 How is work divided across people and artefacts, and how can a joint system detect trouble and recover in time? Explore [[topics/collaboration-across-people-and-artefacts|Collaboration across people and artefacts]] through [[distributed-cognitive-system|Distributed cognitive system]], [[joint-cognitive-system|Joint cognitive system]], [[function-allocation|Function allocation and function congruence]], and [[execution-monitoring|Execution monitoring]].
 
 For the coordination of participants' contributions and the business they undertake, read [[joint-action|Joint action]] and [[joint-project|Joint project]]. Their interaction-level questions complement the system-level routes.
+
+Follow [[work-interdependence|Work interdependence]] for dependencies among contributions, [[articulation-work|Articulation work]] for the work of making them fit together, and [[heeding-practices|Heeding practices]] for skilled monitoring and displaying.
 
 These themes are reading routes, not an exhaustive classification. Crosslinks connect concepts across themes; a graph edge does not by itself imply equivalence or agreement between theories. Each entry identifies the scope and sources behind its claims.
 

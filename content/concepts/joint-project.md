@@ -32,4 +32,6 @@ These structures are assembled opportunistically, not necessarily specified in a
 
 In a tentative agent-workflow analogy, make the proposed work, any revised interpretation, and the outstanding commitments inspectable before treating a task as finished. [[joint-action#activity-state-and-record|Activity state and record]] helps distinguish this evolving business from a transcript. [[joint-action#levels-of-joint-action|Levels of joint action]] locates proposing and considering without equating them with execution.
 
+Compare [[articulation-work|Articulation work]] for the continuing work of coordinating contributions, and [[work-interdependence|Work interdependence]] for dependencies among activities. These are distinct questions from the proposal and uptake of joint business.
+
 [^1]: Clark, Herbert H. _Using Language_. Cambridge University Press, 1996. Consulted copy: sixth printing, 2005. ISBN 0-521-56745-9 (paperback). [Publisher book page](https://www.cambridge.org/core/books/using-language/4E7EBC4EC742C26436F6CF187C43F239). Locators are printed pages.

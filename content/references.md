@@ -14,6 +14,12 @@ Clark, Herbert H. _Using Language_. Cambridge University Press, 1996. Consulted 
 
 Related concepts: [[joint-action|Joint action]], [[common-ground|Common ground]], [[composite-signal|Composite signal]].
 
+### Crandall, Klein, and Hoffman — Working Minds
+
+Crandall, Beth, Gary Klein, and Robert R. Hoffman. _Working Minds: A Practitioner’s Guide to Cognitive Task Analysis_. MIT Press / A Bradford Book, 2006. ISBN 9780262532815. [Publisher](https://mitpress.mit.edu/9780262532815/working-minds/).
+
+Related concepts: [[cognitive-requirements|Cognitive requirements]], [[problem-detection|Problem detection]].
+
 ### Hollnagel and Woods — Joint Cognitive Systems
 
 Hollnagel, Erik, and David D. Woods. _Joint Cognitive Systems: Foundations of Cognitive Systems Engineering_. CRC Press, 2005. [Publisher DOI](https://doi.org/10.1201/9781420038194). This is the _Foundations_ volume.
@@ -31,6 +37,12 @@ Related concepts: [[distributed-cognitive-system|Distributed cognitive system]],
 Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. Fourth edition, Global Edition. Pearson Education Limited, 2022. [Official edition page](https://aima.cs.berkeley.edu/global-index.html).
 
 Related concepts: [[agent|Agent]], [[execution-monitoring|Execution monitoring]], [[assistance-game|Assistance game]].
+
+### Schmidt — Cooperative Work and Coordinative Practices
+
+Schmidt, Kjeld. _Cooperative Work and Coordinative Practices: Contributions to the Conceptual Foundations of Computer-Supported Cooperative Work (CSCW)_. Springer-Verlag London Limited, 2011. ISBN 9781848000674. [Publisher DOI](https://doi.org/10.1007/978-1-84800-068-1).
+
+Related concepts: [[articulation-work|Articulation work]], [[work-interdependence|Work interdependence]], [[heeding-practices|Heeding practices]].
 
 ### Simon — Administrative Behavior
 

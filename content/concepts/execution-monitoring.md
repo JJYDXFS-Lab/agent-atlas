@@ -20,4 +20,6 @@ For a distinct account of evidence that a joint action has succeeded, compare [[
 
 In an Atlas example, an assistant checks that an input file exists, that the full analysis can still meet its constraints, and that the requested output remains wanted. The last check may require asking the task owner. Goal monitoring in a formal planning account does not authorize a software agent to replace a user's goals; [[organizational-authority|Organizational authority]] addresses a different issue.
 
+Compare [[problem-detection|Problem detection]] for recognizing trouble before it is fully specified. Monitoring execution can reveal a new problem; the distinction concerns the explanatory focus, not mutually exclusive activities.
+
 [^a]: Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. Fourth edition, Global Edition. Pearson Education Limited, 2022. [Official edition page](https://aima.cs.berkeley.edu/global-index.html). Locators refer to this Global Edition.

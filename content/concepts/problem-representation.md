@@ -28,6 +28,8 @@ Simon distinguishes evaluating a completed design from estimating whether furthe
 
 An Atlas example is to represent a review task as a source-to-claim table rather than a prose draft. This changes which missing links are visible and what checking remains; it does not guarantee the claims are true or the whole workflow cheaper. [[artifact-interface|Artifact interface]] concerns fit among construction, environment, and purpose; [[means-ends-analysis|Means–ends analysis]] describes a search procedure within representations. [[distributed-cognitive-system|Distributed cognitive system]] follows transformations across people and media. These questions complement one another.
 
+[[cognitive-requirements|Cognitive requirements]] specifies what makes judgments difficult and uses a decision requirements table to organize the findings. The requirements and the representation used to examine them are distinct.
+
 [^c]: Simon, Herbert A. _The Sciences of the Artificial_. Third edition. MIT Press, 1996. [Publisher edition](https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/). Locators are printed pages.
 
 [^h]: Hutchins, Edwin. _Cognition in the Wild_. MIT Press, 1995. [Publisher edition](https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/). Locators are printed pages.
