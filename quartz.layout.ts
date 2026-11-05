@@ -20,6 +20,7 @@ const explorerSort: ExplorerOptions["sortFn"] = (a, b) => {
     "topics/communication-and-interpretation",
     "topics/design-and-organizational-decision-making",
     "topics/collaboration-across-people-and-artefacts",
+    "references",
     "concepts/index",
   ]
   const aRank = readingOrder.indexOf(a.slug)

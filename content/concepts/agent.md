@@ -44,4 +44,4 @@ AIMA distinguishes whether the environment is **known** from whether it is **obs
 
 For analysis across participants, compare [[distributed-cognitive-system|Distributed cognitive system]] and [[joint-cognitive-system|Joint cognitive system]]. They change the explanatory unit without changing this entry's perception–action definition.
 
-[^1]: Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. Fourth edition, Global Edition. Pearson Education Limited, 2022. Chapter 2: §2.1, pp. 54–56; §2.2, pp. 57–60; §2.3, pp. 60–65; §§2.4–2.4.2, pp. 65–67. [Official edition page](https://aima.cs.berkeley.edu/global-index.html). Page numbers refer to this Global Edition.
+[^1]: Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. Fourth edition, Global Edition. Pearson Education Limited, 2022. Chapter 2: §2.1, pp. 54–56; §2.2, pp. 57–60; §2.3, pp. 60–65; §§2.4–2.4.2, pp. 65–67. [Official edition page](https://aima.cs.berkeley.edu/global-index.html). Page numbers refer to this Global Edition. [[references#russell-and-norvig--artificial-intelligence|References entry]].

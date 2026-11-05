@@ -29,3 +29,5 @@ How is work divided across people and artefacts, and how can a joint system dete
 For the coordination of participants' contributions and the business they undertake, read [[joint-action|Joint action]] and [[joint-project|Joint project]]. Their interaction-level questions complement the system-level routes.
 
 These themes are reading routes, not an exhaustive classification. Crosslinks connect concepts across themes; a graph edge does not by itself imply equivalence or agreement between theories. Each entry identifies the scope and sources behind its claims.
+
+Browse [[references|References]] for the books and papers cited across the Atlas.
