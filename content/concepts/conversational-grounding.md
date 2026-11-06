@@ -38,7 +38,9 @@ Clark's later book places grounding within **joint closure**: participants try t
 
 Evidence must be **valid**—reliable and interpretable—**economical** to obtain, and **timely** for the next action. These requirements trade off with the current purpose. The point is not to demand the strongest imaginable confirmation after every utterance, but to secure evidence appropriate to the action being closed. (pp. 223–226)[^3]
 
-A response can reveal a problem rather than close it. In Clark's example of **third-turn repair**, a question about who evaluates property receives an answer about a surveyor; the questioner then clarifies that the question concerned who sets the asking price. The answer displayed a construal that could be corrected. This illustrates why downward evidence is defeasible, not an irreversible certificate of understanding. (p. 234)[^3]
+Evidence of success can also reduce checking. Clark’s downward evidence and holistic evidence let evidence for a higher-level or whole action support its lower levels or parts; participants need not check each separately. They seek evidence at the highest level available and for the largest action attempted, provided it is valid, economical, and timely enough for current purposes. (pp. 223–226)[^3]
+
+A response can reveal a problem rather than close it. In Clark's example of **third-turn repair**, a question about who evaluates property receives an answer about a surveyor; the questioner then clarifies that the question concerned who sets the asking price. The answer displayed the respondent’s construal, allowing the questioner to identify and repair the misunderstanding. (p. 234)[^3]
 
 ## Projected evidence and tracks
 

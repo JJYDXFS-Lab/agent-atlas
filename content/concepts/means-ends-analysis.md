@@ -20,6 +20,8 @@ For a file-editing agent, a desired state might be a document with every require
 
 Simon qualifies when a problem can be factored into subproblems: an action that removes one difference can affect others, and its preconditions can require additional work. Keeping alternative paths matters when those interactions defeat a simple sequence of local improvements. (Chapter 5, printed pp. 123–124)[^1] A list of subtasks is not evidence that each can be solved independently.
 
-[[problem-representation|Problem representation]] concerns how states and operations are structured; [[execution-monitoring|Execution monitoring]] distinguishes checks during action. The recursive why/what/how analysis in [[function-allocation|Function allocation and function congruence]] is a different functional-decomposition method, not another name for GPS.
+[[problem-representation|Problem representation]] concerns how states and operations are structured; [[execution-monitoring|Execution monitoring]] distinguishes checks during action. The recursive why/what/how analysis in [[function-allocation#recursive-goalsmeans-analysis|Function allocation and function congruence]] shares the goals–means principle, which Hollnagel and Woods explicitly connect to GPS, while applying it to functional analysis rather than prescribing the GPS search procedure. (pp. 129–133)[^j]
 
 [^1]: Simon, Herbert A. _The Sciences of the Artificial_. Third edition. MIT Press, 1996. ISBN 9780262193740 (hardcover). [Publisher page, paperback ISBN 9780262691918](https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/). Inspected Chapter 5, printed pp. 121–124 (PDF pp. 133–136).
+
+[^j]: Hollnagel, Erik, and David D. Woods. _Joint Cognitive Systems: Foundations of Cognitive Systems Engineering_. CRC Press, 2005. [Publisher DOI](https://doi.org/10.1201/9781420038194). Locators are printed pages; this is _Foundations_, not the companion _Patterns_ volume.

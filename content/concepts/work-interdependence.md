@@ -16,7 +16,7 @@ Sharing a scarce resource or an organizational budget does not by itself specify
 
 ## Different questions about cooperation
 
-[[articulation-work|Articulation work]] concerns coordinating and integrating the interdependent contributions. [[joint-action|Joint action]] and [[joint-project|Joint project]] develop Clark's account of participants' coordinated contributions and joint business. [[common-ground|Common ground]] addresses what participants take to be shared. A material dependency and a basis for mutual understanding are different objects of explanation; identifying the former does not refute the latter.
+[[articulation-work|Articulation work]] concerns coordinating and integrating the interdependent contributions. [[joint-action|Joint action]] and [[joint-project|Joint project]] develop Clark's account of participants' coordinated contributions and joint business. [[common-ground|Common ground]] addresses what participants take to be shared. Schmidt uses observable interdependence to avoid defining cooperative work by presumed shared goals or shared understanding. He argues that such definitions risk circularity and make unsuccessful cooperation hard to describe. (p. 12)[^1] This is a methodological objection to those definitions; the passage does not directly assess Clark’s account of common ground or joint projects.
 
 [[near-decomposability|Near decomposability]] compares strengths and timescales of interactions among subsystems in Simon's account. It should not be substituted for Schmidt's analysis of particular work dependencies.
 

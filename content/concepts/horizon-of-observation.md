@@ -8,7 +8,9 @@ Hutchins uses **horizon of observation** for the range of task activity availabl
 
 ## Seeing, detecting, and learning
 
-A participant can encounter others' actions and their consequences without being able to diagnose them. An experienced navigator's detection of an error and a novice's opportunity to learn from the same activity are different outcomes. Wider visibility may expose useful relationships, but can also interrupt work or consume attention. More visible activity therefore does not guarantee more learning or better performance. (pp. 268–279)[^h]
+A participant can encounter others' actions and their consequences without being able to diagnose them. An experienced navigator's detection of an error and a novice's opportunity to learn from the same activity are different outcomes. Wider visibility may expose useful relationships, but can also distract participants and lead to further errors; Hutchins does not quantify this tradeoff. (p. 279)[^h] More visible activity therefore does not guarantee more learning or better performance. (pp. 268–279)[^h]
+
+Tool design and work organization shape this horizon. Hutchins contrasts chart work, whose operations are visible on the chart’s surface, with less revealing calculator use. A discussion between a plotter and bearing recorder also lets a nearby learner follow how landmarks are selected; that opportunity would be lost if the decision were made privately. (pp. 269–271)[^h]
 
 ## Related concepts
 

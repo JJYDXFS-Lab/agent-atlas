@@ -18,7 +18,7 @@ Requirements can guide both initial design and acceptance criteria: which decisi
 
 A **decision requirements table (DRT)** organizes difficult decisions alongside relevant cues or information, strategies or practices, and potential pitfalls. The book's civil-law mediation example brings these elements together across phases of mediation. Such a table can consolidate one incident or findings across several records; it is a representation of analyzed evidence, not a direct recording of an expert's internal cognition. (Chapter 7, pp. 122–124)[^1]
 
-The table is useful here as a tool for expressing cognitive requirements. It does not need a separate concept page, and filling its columns is not by itself validation of the analysis. [[problem-representation|Problem representation]] addresses the broader issue of how a representation changes what can be examined and done.
+The table is one way to express cognitive requirements; filling its columns does not by itself validate the analysis. [[problem-representation|Problem representation]] addresses the broader issue of how a representation changes what can be examined and done.
 
 ## Requirements can change
 

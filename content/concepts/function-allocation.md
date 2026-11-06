@@ -14,7 +14,7 @@ Overlap has a cost and a condition: a nominal backup is of little use if it lack
 
 ## Recursive goals–means analysis
 
-Functional analysis asks why a function is needed, what it achieves, and how it is achieved, moving recursively between levels. Decomposition must stop at a level appropriate to the analysis and available knowledge; further detail is not automatically informative. Analyse functions before assigning tasks. (pp. 129, 131–133)[^j] This differs from the GPS difference-reduction procedure in [[means-ends-analysis|Means–ends analysis]].
+Functional analysis asks why a function is needed, what it achieves, and how it is achieved, moving recursively between levels. Decomposition must stop at a level appropriate to the analysis and available knowledge; further detail is not automatically informative. Analyse functions before assigning tasks. (pp. 129, 131–133)[^j] Hollnagel and Woods explicitly connect this goals–means principle with GPS’s [[means-ends-analysis|Means–ends analysis]]. Here they develop recursive functional analysis, with an explicit stop rule; GPS uses differences between current and goal states to guide operator selection. The shared principle does not make these uses the same procedure. (pp. 129–133)[^j]
 
 ## Application and limits
 
