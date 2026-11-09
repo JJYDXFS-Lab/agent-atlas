@@ -4,7 +4,7 @@ title: Problem representation
 
 # Problem representation
 
-In Simon's account of design, a **problem representation** structures the states, relations, and operations through which a problem can be understood and worked on. Changing representation can make different operations or organizations possible; it is more than choosing a display format for an already settled calculation. (Chapter 5, pp. 131–134; Chapter 6, pp. 141–146)[^c]
+In Simon's account of design, a **problem representation** structures the states, relations, and operations through which a problem can be understood and worked on. Changing representation can change the available operations and how work is organized; the effect need not be limited to display format. (Chapter 5, pp. 131–134; Chapter 6, pp. 141–146)[^c]
 
 ## Representation and organization in Simon
 

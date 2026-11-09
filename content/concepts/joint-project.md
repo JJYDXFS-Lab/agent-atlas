@@ -18,7 +18,7 @@ Clark distinguishes a private commitment, a commitment made in another's presenc
 
 “Sit here” might be an order, request, offer, or advice. A response such as “No thanks” or “What a good idea” displays how the utterance is being construed and lets the speaker validate or correct that construal. Clark's **joint construal** is what participants settle on as what the speaker is to be taken to mean, not simply an unchanged private intention recovered by the listener. (pp. 212–214, 218–219)[^1]
 
-Responses can complete the project as proposed, modify it to something feasible or acceptable, decline it, or withdraw from considering it. Declining leaves the proposed project incomplete; withdrawal can redirect the conversation to another project. These possibilities help explain how conversation develops locally rather than merely executing one person's plan. (pp. 203–204, 337)[^1]
+Responses can complete the project as proposed, modify it to something feasible or acceptable, decline it, or withdraw from considering it. Declining leaves the proposed project incomplete; withdrawal can redirect the conversation to another project. These responses shape how the conversation develops locally. (pp. 203–204, 337)[^1]
 
 For a hypothetical report request, “I can check the totals, but not certify the dataset” offers a modified project. “I understand which dataset you mean, but I cannot check it” can provide evidence of understanding while declining the work. [[conversational-grounding|Conversational grounding]] concerns that evidence; its acceptance phase must not be read as a general definition of all uptake. Understanding, endorsing a claim, authorizing an action, and completing work require separate judgments.
 

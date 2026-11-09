@@ -8,7 +8,7 @@ How is work distributed among people and artefacts, and what lets them coordinat
 
 [[distributed-cognitive-system|Distributed cognitive system]] follows representational states as they move and change across people, instruments, and records. Hutchins's navigation studies ask what the specified system computes, without assigning that computation to every participant. [[problem-representation|Problem representation]] compares Hutchins's account of changing local operations with Simon's account of search and design. [[situated-action|Situated action]] asks how a plan becomes a resource for action in unfolding circumstances, rather than treating the plan as a complete script. These perspectives should not be collapsed into one account of representation or planning.
 
-[[joint-cognitive-system|Joint cognitive system]] instead foregrounds Hollnagel and Woods's functional unit: cooperating participants and artefacts sustaining control under disturbance. A distributed account of information transformations does not by itself demonstrate timely control or recovery. Choose the boundary of analysis for the work being assessed, and distinguish what affects performance from what participants can control.
+[[joint-cognitive-system|Joint cognitive system]] foregrounds Hollnagel and Woods's functional unit: cooperating participants and artefacts sustaining control under disturbance. A distributed account of information transformations does not by itself demonstrate timely control or recovery. Choose the boundary of analysis for the work being assessed, and distinguish what affects performance from what participants can control.
 
 ## Coordinating an activity
 

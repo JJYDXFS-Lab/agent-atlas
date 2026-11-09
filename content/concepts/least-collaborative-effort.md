@@ -2,7 +2,7 @@
 title: Least collaborative effort
 ---
 
-The principle of least collaborative effort says that conversational participants try to minimize the work they jointly do from the initiation of a contribution to its mutual acceptance. Clark and Brennan restate the principle from Clark and Wilkes-Gibbs (1986); this entry follows their chapter rather than an independent reading of the earlier paper (pp. 134–135).[^1] Its unit is the joint contribution, including the work of establishing understanding, rather than the speaker's utterance alone.
+The principle of least collaborative effort says that conversational participants try to minimize the work they jointly do from the initiation of a contribution to its mutual acceptance. Clark and Brennan restate the principle from Clark and Wilkes-Gibbs (1986); this entry follows their chapter rather than an independent reading of the earlier paper (pp. 134–135).[^1] Its unit is the joint contribution, including the work of establishing understanding by both participants.
 
 ## Why collaboration changes effort
 

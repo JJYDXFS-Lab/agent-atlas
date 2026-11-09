@@ -10,9 +10,9 @@ Schmidt introduces a **fictional illustration** of moving furniture. Two people 
 
 ## What differs between dependencies?
 
-Schmidt identifies characteristics including **degree of coupling, direction of dependence, irreversibility, uncertainty, and temporal characteristics**. They guide comparison of work settings rather than supply a fixed scoring instrument. (p. 12)[^1] The table and carpet examples also raise a question about what workers can perceive of one another's actions; perceptibility is not an additional item in that stated list.
+Schmidt identifies characteristics including **degree of coupling, direction of dependence, irreversibility, uncertainty, and temporal characteristics**. They guide comparison of work settings; Schmidt does not supply a fixed scoring instrument. (p. 12)[^1] The table and carpet examples also raise a question about what workers can perceive of one another's actions; perceptibility is not an additional item in that stated list.
 
-Sharing a scarce resource or an organizational budget does not by itself specify this relationship of interdependence in work. Schmidt distinguishes these cases because their relevant practices and rules differ. (p. 12)[^1] An analysis must identify which activities depend on which others and how, rather than infer cooperation solely from membership in a team.
+Sharing a scarce resource or an organizational budget does not by itself specify this relationship of interdependence in work. Schmidt distinguishes these cases because their relevant practices and rules differ. (p. 12)[^1] An analysis must identify which activities depend on which others and how. Team membership alone does not establish cooperation.
 
 ## Different questions about cooperation
 

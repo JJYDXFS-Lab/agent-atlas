@@ -37,7 +37,7 @@ The costs can trade off: extra formulation effort may prevent faults or repairs,
 
 ## Purpose and evidence
 
-Medium and purpose interact. A reviewable record may serve scheduling or task assignment, while visibility and immediate attention may matter for other purposes, though participants sometimes prefer to avoid interrupting or to keep their reactions unseen; group participation can also change the costs. The chapter discusses reported preferences and predicts tradeoffs, rather than declaring one medium best for every activity (p. 147).[^1]
+Medium and purpose interact. A reviewable record may serve scheduling or task assignment, while visibility and immediate attention may matter for other purposes, though participants sometimes prefer to avoid interrupting or to keep their reactions unseen; group participation can also change the costs. The chapter reports preferences and predicts tradeoffs without identifying one best medium for every activity (p. 147).[^1]
 
 A missing email reply illustrates a distinct evidential problem: the sender may not know whether the message was received, attended to, or understood (p. 146).[^1] See the stages and positive evidence discussed in [[conversational-grounding#Evidence of understanding|Conversational grounding]]. Reviewability alone does not resolve that uncertainty.
 

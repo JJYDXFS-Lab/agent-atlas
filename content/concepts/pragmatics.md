@@ -6,7 +6,7 @@ Pragmatics studies language use in context: how an utterance is interpreted and 
 
 ## Meaning in context
 
-Resolving a reference such as “that file” requires more than a dictionary meaning. Interpreting “Can you close the window?” as a request rather than only a question about ability also depends on the circumstances. These are hypothetical illustrations of different pragmatic tasks; context can settle an interpretation without another explicit instruction.
+Resolving a reference such as “that file” depends on the circumstances as well as the words. Those circumstances can also make “Can you close the window?” a request, though its literal form asks about ability. These are hypothetical illustrations of different pragmatic tasks; context can settle an interpretation without another explicit instruction.
 
 Ambiguity, vagueness, and missing detail are not interchangeable. An ambiguous expression allows different readings; a vague expression has borderline cases; an instruction can leave details unspecified without having two distinct linguistic readings. Nor does an unstated requirement automatically count as communicated: an inference about speaker meaning needs contextual support.
 

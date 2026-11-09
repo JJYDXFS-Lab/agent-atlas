@@ -4,7 +4,7 @@ title: Organizational communication
 
 # Organizational communication
 
-In Simon's administrative analysis, **organizational communication** makes information and other decision premises available across an organization. The issue is not just whether messages travel, but which information is reported, screened, suppressed, or combined, and where decisions are made. (Chapter VIII, pp. 208–219)[^b]
+In Simon's administrative analysis, **organizational communication** makes information and other decision premises available across an organization. Its effects depend on which information is reported, screened, suppressed, or combined, and where decisions are made. (Chapter VIII, pp. 208–219)[^b]
 
 ## Distributed information and reporting rules
 

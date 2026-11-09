@@ -4,13 +4,13 @@ title: Cognitive requirements
 
 # Cognitive requirements
 
-An AWACS weapons director must identify threats and maintain an understanding of a changing situation while using a cluttered display. In the project described by Crandall, Klein, and Hoffman, researchers investigated difficult decisions, possible errors, and the cues and patterns experienced operators used. Those findings informed interface recommendations. The design question became which difficult judgments needed support, rather than simply which information could be added. (Chapter 11, pp. 174–177)[^1]
+An AWACS weapons director must identify threats and maintain an understanding of a changing situation while using a cluttered display. In the project described by Crandall, Klein, and Hoffman, researchers investigated difficult decisions, possible errors, and the cues and patterns experienced operators used. Those findings informed interface recommendations focused on supporting difficult judgments. (Chapter 11, pp. 174–177)[^1]
 
 **Cognitive requirements** are the challenging aspects of a task together with the reasons for their difficulty, the errors people make, and the strategies needed to address them. They connect an account of work to specific design, training, and evaluation questions. A broad aim such as “better situation awareness” still needs to be made concrete in the relevant task. (Chapter 14, pp. 235–236)[^1]
 
 ## From difficulty to design and evaluation
 
-A requirement describes more than an information deficit. In the AWACS example, detecting and tracking threats involves attention, screen clutter, memory, and interpreting a track's history. The authors describe a redesign and simulator evaluation, not a universal result for every display or operational setting. (Chapter 11, pp. 174–177)[^1]
+A requirement can concern attention, display clutter, memory, or interpretation, as well as missing information. In the AWACS example, detecting and tracking threats involves attention, screen clutter, memory, and interpreting a track's history. The authors describe a redesign and simulator evaluation, not a universal result for every display or operational setting. (Chapter 11, pp. 174–177)[^1]
 
 Requirements can guide both initial design and acceptance criteria: which decisions must improve, under what conditions, and what performance would support that conclusion? The evidence and measures must remain specific to the work. (Chapter 14, pp. 235–236)[^1]
 

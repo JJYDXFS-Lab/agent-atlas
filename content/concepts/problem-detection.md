@@ -18,7 +18,7 @@ The NICU account makes the distinction concrete: the nurse's familiarity with th
 
 ## Supporting detection
 
-In the book's account of DC-TRAC, a damage-control display helped users inspect where people and fires were and where they were heading. Its evaluation identified detecting problems as a principal use of the system. The lesson is to examine what the tool actually helps people notice, rather than assume its intended role exhausts its use. (Chapter 11, p. 187)[^1]
+In the book's account of DC-TRAC, a damage-control display helped users inspect where people and fires were and where they were heading. Its evaluation identified detecting problems as a principal use of the system. Examining what the tool helps people notice can reveal uses beyond its intended role. (Chapter 11, p. 187)[^1]
 
 ## Boundaries and a contemporary question
 

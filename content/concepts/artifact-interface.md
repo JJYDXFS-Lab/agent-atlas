@@ -14,6 +14,6 @@ The relation to [[agent|Agent]] is a complementary viewpoint: perception–actio
 
 ## Operational example
 
-An illustrative application is a scheduling assistant: its planner and stored commitments form an inner organization; calendar services, users, and appointment constraints form the chosen outer environment. Evaluate whether it schedules correctly under delayed calendar updates, rather than evaluating its planner only with perfect inputs. This is an Atlas application, not Simon's own example.
+An illustrative application is a scheduling assistant: its planner and stored commitments form an inner organization; calendar services, users, and appointment constraints form the chosen outer environment. Test its scheduling under delayed calendar updates as well as perfect inputs. This is an Atlas application, not Simon's own example.
 
 [^1]: Simon, Herbert A. _The Sciences of the Artificial_. Third edition. MIT Press, 1996. ISBN 9780262193740 (hardcover). [Publisher page, paperback ISBN 9780262691918](https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/). Inspected Chapter 1, printed pp. 5–9 (PDF pp. 17–21 in the privately held copy).

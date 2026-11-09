@@ -4,7 +4,7 @@ title: Distributed cognitive system
 
 # Distributed cognitive system
 
-In Hutchins's analysis, cognitive processes can be studied across a system of people, instruments, and other media. The explanatory task is to follow how representational states propagate and transform within a specified system, rather than attributing its performance to a single person's mental operations. The boundary is an analytical choice tied to the task. (Chapters 2–3, pp. 49–51, 117–129; Chapter 9, pp. 373–374)[^h]
+In Hutchins's analysis, cognitive processes can be studied across a system of people, instruments, and other media. The explanatory task follows how representational states propagate and transform within a specified system. Performance at that level should not be assumed to arise solely from one person's mental operations. The boundary is an analytical choice tied to the task. (Chapters 2–3, pp. 49–51, 117–129; Chapter 9, pp. 373–374)[^h]
 
 ## Representational work and attribution
 
