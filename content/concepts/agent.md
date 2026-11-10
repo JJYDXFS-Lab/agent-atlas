@@ -8,7 +8,7 @@ An **agent**, in Russell and Norvig's perception–action framework, is a system
 
 ## Percepts, behavior, and implementation
 
-A **percept** is the content received through an agent's sensors; its **percept sequence** is its complete perceptual history. A percept need not reveal the full state of the environment. An **agent function** describes the action selected for each possible percept sequence. In the deterministic, sequence-based formulation, (§§2.1, 2.3.2)[^1]
+A **percept** is the content received through an agent's sensors; its **percept sequence** is its complete perceptual history. A percept need not reveal the full state of the environment. An **agent function** describes the action selected for each possible percept sequence. In a deterministic, sequence-based formulation, using Atlas notation (§2.1)[^1]
 
 $$
 f: P^* \rightarrow A,
@@ -20,7 +20,7 @@ An **agent program** is a concrete implementation of an agent function. It runs 
 
 ## Rationality and autonomy
 
-Being an agent does not imply being rational. A **rational agent** chooses an available action with the greatest expected performance, given its percept history and built-in knowledge. Rationality is relative to the performance measure, available actions, prior knowledge, and evidence; it does not imply omniscience or guaranteed success. A **performance measure** evaluates the sequence of environment states resulting from the agent’s behavior over the assessment period, even when the agent does not explicitly represent that measure. For the vacuum world, AIMA suggests awarding a point for each clean square at each time step, so cleanliness throughout the period contributes to the score. (§§2.2.1–2.2.3; p. 57)[^1]
+Being an agent does not imply being rational. A **rational agent** chooses an available action with the greatest expected performance, given its percept history and built-in knowledge. Rationality is relative to the performance measure, available actions, prior knowledge, and evidence; it does not imply omniscience or guaranteed success. A **performance measure** evaluates the sequence of environment states resulting from the agent’s behavior over the assessment period, even when the agent does not explicitly represent that measure. For the vacuum world, AIMA suggests awarding a point for each clean square at each time step, so cleanliness throughout the period contributes to the score. (§§2.2.1–2.2.3, pp. 57–60)[^1]
 
 In this account, **autonomy** concerns reliance on the agent's own percepts and learning rather than only its designer's prior knowledge. It is a matter of degree, and initial knowledge can help an agent survive long enough to learn. This use of autonomy should be distinguished from an engineering permission to operate without human approval. (§2.2.3)[^1]
 

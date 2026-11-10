@@ -6,7 +6,7 @@ In LLM agent systems, “memory” can refer to several mechanisms for retaining
 
 ## Two documented uses
 
-**MemGPT** [^1] separates the current prompt from external storage. Its working context is editable text inside the prompt; recall storage retains messages, while archival storage holds additional text outside the immediate input. Function calls move or edit information across these tiers. Thus, persistent storage and the [[context-window|Context window]] have different roles even when both participate in a memory system.
+**MemGPT** [^1] separates the current prompt from external storage. Its working context is editable text inside the prompt; recall storage retains messages and archival storage holds additional text, both outside the immediate input. Function calls move or edit information across these tiers. Thus, persistent storage and the [[context-window|Context window]] have different roles even when both participate in a memory system.
 
 The original [[retrieval-augmented-generation|RAG]] paper [^2] instead calls the pretrained generator's parameters **parametric memory** and its indexed passage collection **non-parametric memory**. This distinction concerns where knowledge is represented and accessed. A passage index is not necessarily a record of an agent's own experiences, and these labels do not map one-to-one onto MemGPT's tiers.
 

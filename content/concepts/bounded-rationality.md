@@ -4,7 +4,7 @@ title: Bounded rationality
 
 # Bounded rationality
 
-**Bounded rationality**, in Simon's administrative theory, describes intendedly rational choice constrained by knowledge, anticipation, attention, and the alternatives a decision-maker can consider. Actual choice falls short of examining every alternative and its full consequences. The concept concerns the decision process and its limits, not a claim that people have no purposes or reasons. (Chapter V, printed pp. 92–95; Commentary on Chapter V, printed pp. 118–119)[^1]
+**Bounded rationality**, Simon's term in his later commentary for the limits analysed in Chapter V, describes intendedly rational choice constrained by knowledge, anticipation, attention, and the alternatives a decision-maker can consider. Actual choice falls short of examining every alternative and its full consequences. The concept concerns the decision process and its limits, not a claim that people have no purposes or reasons. (Chapter V, printed pp. 92–95; Commentary on Chapter V, printed pp. 118–119)[^1]
 
 ## Uses in the literature
 
@@ -22,7 +22,7 @@ An illustrative research assistant has time to inspect five candidate sources. R
 
 ## Attention as a limiting resource
 
-Simon's teletype example distinguishes faster communication from the human attention required to use it: increasing information delivery does not remove a downstream attention bottleneck. (Chapter 6, printed pp. 143–144)[^2] In a modern assistant workflow, more generated text could similarly increase checking work; that is an Atlas hypothesis, not a direct claim about LLM psychology. See [[problem-representation|Problem representation]] for how the organization of information changes work.
+Simon's teletype example distinguishes higher message output (line printers replacing teletypes) from the human attention required to use it: increasing information delivery does not remove a downstream attention bottleneck. (Chapter 6, printed pp. 143–144)[^2] In a modern assistant workflow, more generated text could similarly increase checking work; that is an Atlas hypothesis, not a direct claim about LLM psychology. See [[problem-representation|Problem representation]] for how the organization of information changes work.
 
 [^2]: Simon, Herbert A. _The Sciences of the Artificial_. Third edition. MIT Press, 1996. [Publisher edition](https://mitpress.mit.edu/9780262691918/the-sciences-of-the-artificial/). Locators are printed pages.
 

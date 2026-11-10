@@ -18,7 +18,7 @@ Hutchins follows a different mechanism: an overall input–output constraint can
 
 ### Precomputation
 
-Earlier work can transform later computation by preparing a representation or arrangement that makes subsequent operations simpler. Such transformations rely on conditions that must still hold when the representation is used. The three-minute navigation rule employs an approximate nautical convention, not an exact unit identity; a more convenient local operation does not by itself establish lower total cost. (pp. 159–168)[^h]
+Earlier work can transform later computation by preparing a representation or arrangement that makes subsequent operations simpler. Hutchins notes that the usefulness of such preparation depends on how long the regularities encoded in a representation remain applicable; charts, ship-specific markings, and temporary plotting aids capture regularities with different lifetimes. The three-minute navigation rule employs an approximate nautical convention, not an exact unit identity. Hutchins argues that restructuring work in advance may reduce total effort, not merely shift it in time; whether an Atlas workflow achieves such savings still requires assessment. (pp. 159–168)[^h]
 
 ## Generating, testing, and allocating search
 

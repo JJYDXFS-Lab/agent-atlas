@@ -4,7 +4,7 @@ title: Substitution myth
 
 # Substitution myth
 
-Hollnagel and Woods call the assumption that an artefact can be introduced or replaced while the rest of the work system stays unchanged the **substitution myth**. Automation can change tasks, dependencies, adaptation, and failure paths. A component improvement therefore does not alone demonstrate a system improvement. (Chapter 5, pp. 101–108)[^j]
+Hollnagel and Woods call it a myth that artefacts can be **value neutral**: introducing one would have only its intended effects and no unintended effects. Their section is titled **The Substitution Myth**. They trace the premise to interchangeability in production. Although replacement generally works for simple parts, a new part can strain an aged system. Introducing a complex, active artefact that interacts with users or other parts of the system **will change** the system; those changes **may** exceed what was intended and prove unwanted. (Chapter 5, pp. 101–102)[^j] New or improved artefacts can alter tasks and adaptation, while changes in system structure change failure pathways. A component improvement therefore does not alone demonstrate a system improvement. (pp. 103–104)[^j]
 
 ## Changing work around the artefact
 
@@ -14,7 +14,7 @@ The **envisioned world problem**, discussed through Woods's earlier work, concer
 
 ## Forced automaton analogy
 
-The authors' **forced automaton** analogy criticizes interfaces that constrain people to anticipated interaction sequences. Such constraints may exclude legitimate unanticipated work. This is a related mechanism, not another definition of substitution. The claim that finite machine inputs force people to be regarded as automata is too broad to adopt as a general conclusion: the same chapter recognizes protective barriers. Whether a restriction is appropriate depends on its purpose and effects. (pp. 183–185, 188–189)[^j]
+The authors' **forced automaton** analogy criticizes interfaces that constrain people to anticipated interaction sequences. Such constraints may exclude legitimate unanticipated work. This is a related mechanism, not another definition of substitution. Atlas does not adopt as a general conclusion the authors’ argument that constrained machine inputs force designers toward treating operators as automata; the same chapter recognizes protective barriers. Whether a restriction is appropriate depends on its purpose and effects. (pp. 183–185, 188–189)[^j]
 
 ## Application and comparisons
 

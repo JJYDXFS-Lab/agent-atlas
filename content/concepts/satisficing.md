@@ -4,11 +4,11 @@ title: Satisficing
 
 # Satisficing
 
-**Satisficing** is Simon's term for decision methods that look for good or satisfactory solutions instead of optimal ones. Such methods search for an alternative that meets specified standards of acceptability. Simon motivates it with two practical problems. It is hard to generate and compare all alternatives, and the best one cannot be recognized until all have been seen. (Chapter 5, printed pp. 119–121)[^1]
+**Satisficing** is Simon's term for choosing an option that meets stated standards of acceptability instead of searching for the best possible option. Simon motivates it with two practical problems. It is hard to generate and compare all alternatives, and the best one cannot be recognized until all have been seen. (Chapter 5, printed pp. 119–121)[^1]
 
 ## Uses in the literature
 
-In design, acceptability can be expressed as inequalities, meaning specifications of satisfactory performance, rather than as maxima and minima. A solution can meet these criteria without being optimal. (Chapter 5, printed p. 119)[^1] Simon's administrative account similarly contrasts an administrator seeking a satisfactory course of action with an idealized maximizer. (Commentary on Chapter V, printed pp. 118–119)[^2]
+In design, constraints on performance can define an acceptable outcome without ranking every possible design to find the best. A solution can meet these criteria without being optimal. (Chapter 5, printed p. 119)[^1] Simon's administrative account similarly contrasts an administrator seeking a satisfactory course of action with an idealized maximizer. (Commentary on Chapter V, printed pp. 118–119)[^2]
 
 ## Boundaries and related concepts
 

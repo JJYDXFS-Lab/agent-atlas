@@ -8,7 +8,7 @@ title: Belief state
 
 ## In the POMDP model
 
-A belief state assigns probabilities to possible hidden states given the available history of actions and observations. The paper turns a partially observed planning problem into one over these probability distributions: the planner need not pretend that the most recently reported state is certainly true. An action predicts possible next states; the next observation supplies evidence to revise their probabilities.
+A belief state assigns probabilities to possible hidden states given an initial belief and the available history of actions and observations. The paper turns a partially observed planning problem into one over these probability distributions: the planner need not pretend that the most recently reported state is certainly true. An action predicts possible next states; the next observation supplies evidence to revise their probabilities.
 
 For a _finite-state, finite-observation_ POMDP with a specified transition model $T$ and observation model $O$, an illustrative Bayesian update is
 

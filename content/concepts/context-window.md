@@ -12,4 +12,4 @@ A hypothetical assistant may retain last month's conversation in a database whil
 
 A larger window is a capacity, not a guarantee that the model will use every included fact correctly. [[agent-memory|Agent memory]] concerns mechanisms for retaining and accessing information across steps. [[retrieval-augmented-generation|Retrieval-augmented generation]] supplies selected external material. Neither should be equated with window size. In [[pragmatics|Pragmatics]], “context” can refer to the wider communicative situation, not just model input tokens.
 
-[^1]: Packer, Charles, et al. _MemGPT: Towards LLMs as Operating Systems_. arXiv:2310.08560, version 2, 2024. See §1 and §§2.1–2.3 for the capacity constraint and main/external-context distinction. [Versioned record](https://arxiv.org/abs/2310.08560v2), [full text](https://arxiv.org/pdf/2310.08560v2).
+[^1]: Packer, Charles, et al. _MemGPT: Towards LLMs as Operating Systems_. arXiv:2310.08560, version 2, 2024. See §1 and §§2–2.3 for the capacity constraint and main/external-context distinction. [Versioned record](https://arxiv.org/abs/2310.08560v2), [full text](https://arxiv.org/pdf/2310.08560v2).

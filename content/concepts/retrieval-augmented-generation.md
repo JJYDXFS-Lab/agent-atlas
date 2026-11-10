@@ -8,7 +8,7 @@ title: Retrieval-augmented generation
 
 The language model can remain fixed. REPLUG, for example, prepends retrieved documents to the input of a frozen black-box language model; its LSR variant trains the retriever using that model's scores. Additional task-specific training is therefore an implementation choice, and a frozen generator does not imply a frozen retriever. (§§3–4)[^2]
 
-Retrieval can use lexical matching, dense vectors, or hybrid methods. Lewis and colleagues compare dense retrieval with BM25; later systems also combine retrieval methods. (§4.5; §II-C.2)[^1][^3] Retrieval can also happen during generation: FLARE uses a tentative upcoming sentence as a query and retrieves material to regenerate it when low-confidence tokens occur.[^4]
+Retrieval can use lexical matching, dense vectors, or hybrid methods. Lewis and colleagues compare dense retrieval with BM25; later systems also combine retrieval methods. (§4.5; §III-D.1)[^1][^3] Retrieval can also happen during generation: FLARE uses a tentative upcoming sentence as a query and retrieves material to regenerate it when low-confidence tokens occur.[^4]
 
 ## The original RAG models (2020)
 
@@ -34,6 +34,6 @@ Related reading: [[agent-memory|Agent memory]] compares parametric and non-param
 
 [^2]: Shi, Weijia, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis, Luke Zettlemoyer, and Wen-tau Yih. “REPLUG: Retrieval-Augmented Black-Box Language Models.” 2023. [arXiv:2301.12652v3](https://arxiv.org/abs/2301.12652v3), version 3, 22 May 2023; §§3–4. First submitted 30 January 2023. [[references#shi-and-colleagues--replug|References entry]].
 
-[^3]: Gao, Yunfan, et al. “Retrieval-Augmented Generation for Large Language Models: A Survey.” [arXiv:2312.10997v5](https://arxiv.org/abs/2312.10997v5), version 5, 27 March 2024; §II, Fig. 2, §II-C.2. First submitted 18 December 2023. [[references#gao-and-colleagues--rag-survey|References entry]].
+[^3]: Gao, Yunfan, et al. “Retrieval-Augmented Generation for Large Language Models: A Survey.” [arXiv:2312.10997v5](https://arxiv.org/abs/2312.10997v5), version 5, 27 March 2024; §II, Fig. 2, §III-D.1. First submitted 18 December 2023. [[references#gao-and-colleagues--rag-survey|References entry]].
 
 [^4]: Jiang, Zhengbao, et al. “Active Retrieval Augmented Generation.” 2023. In _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing_, 7969–7992. [ACL Anthology](https://aclanthology.org/2023.emnlp-main.495/). [DOI](https://doi.org/10.18653/v1/2023.emnlp-main.495). The description here is supported by the paper's abstract. [[references#jiang-and-colleagues--active-retrieval-augmented-generation|References entry]].

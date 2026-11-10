@@ -14,7 +14,7 @@ For an Atlas example, a researcher, assistant, and retrieval interface may form 
 
 ## Human participation and the word cognitive
 
-The book's main domain is human-inclusive systems. Its wording is not fully uniform: p. 22 says a cognitive system always includes a human, while p. 23 allows sophisticated machine–machine cooperation in principle; the generic rule on p. 68 is functional rather than material. These passages support a qualified extension, not an absolute exclusion of machine-only systems or a finding that current LLM pairs qualify. The authors also distinguish being called cognitive from possessing cognition. (pp. 22–23, 68, 139)[^j] Neither the label nor joint performance establishes rights, consent, or permission to act.
+The book's main domain is human-inclusive systems. Its wording is not fully uniform: p. 22 says the joint cognitive system always includes a human, while p. 23 says the argument can in principle extend to some cases of sophisticated machine–machine cooperation; the generic rule on p. 68 is functional rather than material. These passages support a qualified extension, not an absolute exclusion of machine-only systems or a finding that current LLM pairs qualify. The authors also distinguish being called cognitive from possessing cognition. (pp. 22–23, 68, 139)[^j] Neither the label nor joint performance establishes rights, consent, or permission to act.
 
 ## Related concepts
 
