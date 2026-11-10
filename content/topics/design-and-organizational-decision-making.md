@@ -30,6 +30,8 @@ Continue to [[agent-foundations|Agent foundations]] for perception–action and 
 
 Read [[problem-representation|Problem representation]] for how representations structure operations and organization. [[organizational-communication|Organizational communication]] connects reporting, filtering, and information location to decision premises. For plans in practice, distributed work, function allocation, and monitoring, continue to [[collaboration-across-people-and-artefacts|Collaboration across people and artefacts]].
 
+[[multiverse-analysis|Multiverse analysis]] examines a different decision space: reasonable ways to construct analysis datasets from the same observations. It runs valid alternatives and shows which preprocessing choices change the statistical results.
+
 [[articulation-work|Articulation work]] addresses the ongoing work of making divided contributions fit together, including revising coordination arrangements.
 
 ## Changing work, records, and responsibility

@@ -112,6 +112,12 @@ Shi, Weijia, Sewon Min, Michihiro Yasunaga, Minjoon Seo, Rich James, Mike Lewis,
 
 Related concept: [[retrieval-augmented-generation|Retrieval-augmented generation]].
 
+### Steegen and colleagues — Increasing Transparency Through a Multiverse Analysis
+
+Steegen, Sara, Francis Tuerlinckx, Andrew Gelman, and Wolf Vanpaemel. “Increasing Transparency Through a Multiverse Analysis.” _Perspectives on Psychological Science_ 11, no. 5 (2016): 702–712. [DOI](https://doi.org/10.1177/1745691616658637); [author-hosted published paper](https://sites.stat.columbia.edu/gelman/research/published/multiverse_published.pdf).
+
+Related concept: [[multiverse-analysis|Multiverse analysis]].
+
 ### Wilf and colleagues — Think Twice
 
 Wilf, Alex, Sihyun Shawn Lee, Paul Pu Liang, and Louis-Philippe Morency. “Think Twice: Perspective-Taking Improves Large Language Models' Theory-of-Mind Capabilities.” 2024. _ACL 2024_, 8292–8308. [Publication record](https://aclanthology.org/2024.acl-long.451/).
